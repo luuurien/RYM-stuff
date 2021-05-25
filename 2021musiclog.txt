@@ -1,4 +1,4 @@
-album count: 76
+album count: 78
 
 music log score colors:
 1/10 - 2/10: olive
@@ -8,7 +8,7 @@ music log score colors:
 9/10 - 10/10: maroon
 
 10/10: 4
-godspeed you! black emperor - g_d's pee at states end!@
+godspeed you! black emperor - g_d's pee at states end!
 pinegrove - amperland,ny
 porter robinson - nurture
 rochelle jordan - play with the changes
@@ -47,7 +47,7 @@ the weather station - ignorance
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 21
+7 / 10: 23
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -60,7 +60,9 @@ girl in red - if i could make it go quiet
 jack ingram / miranda lambert / jon randall - the marfa tapes
 jazmine sullivan - heaux tales EP
 jorja smith - be right back EP
+mdou moctar - afrique victime
 mon laferte - seis
+olivia rodrigo - sour
 origami angel - gami gang
 patricia taxxon - new piranesi
 pom poko - cheater
