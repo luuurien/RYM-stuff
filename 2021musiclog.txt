@@ -1,4 +1,4 @@
-album count: 78
+album count: 80
 
 music log score colors:
 1/10 - 2/10: olive
@@ -22,12 +22,13 @@ renee reed - self titled
 slowthai - tyron
 squid - bright green field
 
-8 / 10: 23
+8 / 10: 24
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 black country, new road - for the first time
 brockhampton - roadrunner
 bruno pernadas - private reasons
 chad vangaalen - worlds most stressed out gardener
+chai - wink
 crumb - ice melt
 dawn richard - second line
 dry cleaning - new long leg
@@ -96,8 +97,9 @@ weezer - van weezer
 j cole - the off season
 madison beer - life support
 
-3 / 10: 1
+3 / 10: 2
 weezer - ok human
+twenty one pilots - scaled and icy
 
 2 / 10: 1
 justin bieber - justice
