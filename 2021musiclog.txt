@@ -1,4 +1,4 @@
-album count: 82
+album count: 83
 
 music log score colors:
 1/10 - 2/10: olive
@@ -41,7 +41,7 @@ lana del rey - chemtrails over the country club
 mat sweeney / bonnie "prince" billy - superwolves
 parannoul - to see the next part of the dream
 patricia taxxon - daylight spectrum
-patricia taxxon - yes, and 
+patricia taxxon - yes, and
 shame - drunk tank pink
 shelley - shelley fka dram
 st vincent - daddy's home
@@ -50,7 +50,7 @@ the weather station - ignorance
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 23
+7 / 10: 24
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -59,6 +59,7 @@ denzel curry x kenny beats - unlocked 1.5
 dodie - build a problem
 doss - 4 new hit songs
 ethel cain - inbred EP
+georgia anne muldrow - vweto iii 
 girl in red - if i could make it go quiet
 jack ingram / miranda lambert / jon randall - the marfa tapes
 jazmine sullivan - heaux tales EP
