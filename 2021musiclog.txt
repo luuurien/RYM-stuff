@@ -1,4 +1,4 @@
-album count: 83
+album count: 85
 
 music log score colors:
 1/10 - 2/10: olive
@@ -50,16 +50,17 @@ the weather station - ignorance
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 24
+7 / 10: 26
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
 claud - super monster
+dayglow - harmony house
 denzel curry x kenny beats - unlocked 1.5
 dodie - build a problem
 doss - 4 new hit songs
 ethel cain - inbred EP
-georgia anne muldrow - vweto iii 
+georgia anne muldrow - vweto iii
 girl in red - if i could make it go quiet
 jack ingram / miranda lambert / jon randall - the marfa tapes
 jazmine sullivan - heaux tales EP
@@ -68,6 +69,7 @@ mdou moctar - afrique victime
 mon laferte - seis
 olivia rodrigo - sour
 origami angel - gami gang
+patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
 pom poko - cheater
 remember sports - like a stone
