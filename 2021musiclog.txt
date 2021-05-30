@@ -1,4 +1,4 @@
-album count: 85
+album count: 86
 
 music log score colors:
 1/10 - 2/10: olive
@@ -22,7 +22,7 @@ renee reed - self titled
 slowthai - tyron
 squid - bright green field
 
-8 / 10: 26
+8 / 10: 27
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 babii - miirror
 black country, new road - for the first time
@@ -31,6 +31,7 @@ bruno pernadas - private reasons
 chad vangaalen - worlds most stressed out gardener
 chai - wink
 crumb - ice melt
+david john morris - monastic love songs
 dawn richard - second line
 dry cleaning - new long leg
 duda beat - te amo la fora
