@@ -1,4 +1,4 @@
-album count: 89
+album count: 90
 
 music log score colors:
 1/10 - 2/10: olive
@@ -13,10 +13,11 @@ pinegrove - amperland,ny
 porter robinson - nurture
 rochelle jordan - play with the changes
 
-9 / 10: 7
+9 / 10: 8
 black dresses - forever in your heart
 frogman - slyme koro
 iglooghost - lei line eon
+natalia lafourcade - un canto por mexico vol 2
 radio supernova - takaisin
 renee reed - self titled
 slowthai - tyron
