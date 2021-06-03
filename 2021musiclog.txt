@@ -1,4 +1,4 @@
-album count: 90
+album count: 91
 
 music log score colors:
 1/10 - 2/10: olive
@@ -7,11 +7,12 @@ music log score colors:
 7/10 - 8/10: red
 9/10 - 10/10: maroon
 
-10/10: 4
+10/10: 5
 godspeed you! black emperor - g_d's pee at states end!
 pinegrove - amperland,ny
 porter robinson - nurture
 rochelle jordan - play with the changes
+sweet trip - a tiny house, in secret speeches, polar equals
 
 9 / 10: 8
 black dresses - forever in your heart

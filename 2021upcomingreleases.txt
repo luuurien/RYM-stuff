@@ -130,7 +130,7 @@ LAMBCHOP - SHOWTUNES (MAY 21) ???
 MUSTAFA - WHEN SMOKE RISES (MAY 28) wed
 BACHELOR - DOOMIN SUN (MAY 28) tues
 BLACK MIDI - CAVALCADE (MAY 28) thur
-SWEET TRIP - A TINY HOUSE, IN SECRET SPEECHES, POLAR EQUALS (MAY 28) wed
+!!!SWEET TRIP - A TINY HOUSE, IN SECRET SPEECHES, POLAR EQUALS (MAY 28) wed
 !!!DMX - EXODUS (MAY 28) mon
 PERTURBATOR - LUSTFUL SACRAMENTS (MAY 28) thur
 MANNEQUIN PUSSY - PERFECT EP (MAY 28)
@@ -143,8 +143,8 @@ PORTICO QUARTET - TERRAIN sat
 
 
 june:
-lana del rey - rock candy sweet (june 2)
 
+nat puff - tiapfyh (june 4)
 japanese breakfast - jubilee (june 4)
 rostam - changephobia (june 4)
 loraine james - reflection (june 4)
