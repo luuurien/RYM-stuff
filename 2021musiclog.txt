@@ -1,4 +1,4 @@
-album count: 91
+album count: 92
 
 music log score colors:
 1/10 - 2/10: olive
@@ -7,7 +7,8 @@ music log score colors:
 7/10 - 8/10: red
 9/10 - 10/10: maroon
 
-10/10: 5
+10/10: 6
+black midi - cavalcade
 godspeed you! black emperor - g_d's pee at states end!
 pinegrove - amperland,ny
 porter robinson - nurture
