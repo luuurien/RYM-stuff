@@ -1,4 +1,4 @@
-album count: 93
+album count: 95
 
 music log score colors:
 1/10 - 2/10: olive
@@ -23,7 +23,7 @@ natalia lafourcade - un canto por mexico vol 2
 radio supernova - takaisin
 renee reed - self titled
 slowthai - tyron
-spirit of the beehive - entertainment, death 
+spirit of the beehive - entertainment, death
 squid - bright green field
 
 8 / 10: 28
@@ -56,7 +56,7 @@ the weather station - ignorance
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 26
+7 / 10: 28
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -71,6 +71,8 @@ girl in red - if i could make it go quiet
 jack ingram / miranda lambert / jon randall - the marfa tapes
 jazmine sullivan - heaux tales EP
 jorja smith - be right back EP
+left at london, - t.i.a.p.f.y.h.
+loraine james - reflection
 mdou moctar - afrique victime
 mon laferte - seis
 olivia rodrigo - sour
