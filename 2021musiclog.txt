@@ -1,4 +1,4 @@
-album count: 95
+album count: 96
 
 music log score colors:
 1/10 - 2/10: olive
@@ -56,7 +56,7 @@ the weather station - ignorance
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 28
+7 / 10: 29
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -80,6 +80,7 @@ origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
 pom poko - cheater
+raheem devaughn / apollo brown - lovesick
 remember sports - like a stone
 run river north - creatures in your head
 sons of kemet - black to the future
