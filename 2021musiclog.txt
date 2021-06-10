@@ -1,4 +1,4 @@
-album count: 96
+album count: 97
 
 music log score colors:
 1/10 - 2/10: olive
@@ -108,10 +108,11 @@ manchester orchestra - the million masks of god
 selena gomez - revelación EP
 weezer - van weezer
 
-4 / 10: 3
+4 / 10: 4
+dmx - exodus
 j cole - the off season
 madison beer - life support
-dmx - exodus
+rostam - changephobia
 
 3 / 10: 2
 weezer - ok human
