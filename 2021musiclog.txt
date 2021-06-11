@@ -1,4 +1,4 @@
-album count: 97
+album count: 99
 
 music log score colors:
 1/10 - 2/10: olive
@@ -26,7 +26,7 @@ slowthai - tyron
 spirit of the beehive - entertainment, death
 squid - bright green field
 
-8 / 10: 28
+8 / 10: 29
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 babii - miirror
 black country, new road - for the first time
@@ -53,10 +53,11 @@ shelley - shelley fka dram
 st vincent - daddy's home
 teke::teke - shirushi
 the weather station - ignorance
+wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 29
+7 / 10: 30
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -69,6 +70,7 @@ ethel cain - inbred EP
 georgia anne muldrow - vweto iii
 girl in red - if i could make it go quiet
 jack ingram / miranda lambert / jon randall - the marfa tapes
+japanese breakfast - jubilee
 jazmine sullivan - heaux tales EP
 jorja smith - be right back EP
 left at london, - t.i.a.p.f.y.h.
