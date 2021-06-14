@@ -1,4 +1,4 @@
-album count: 99
+album count: 100
 
 music log score colors:
 1/10 - 2/10: olive
@@ -57,7 +57,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 30
+7 / 10: 31
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -76,6 +76,7 @@ jorja smith - be right back EP
 left at london, - t.i.a.p.f.y.h.
 loraine james - reflection
 mdou moctar - afrique victime
+medhane - amythest of morning 
 mon laferte - seis
 olivia rodrigo - sour
 origami angel - gami gang
