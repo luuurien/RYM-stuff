@@ -1,4 +1,4 @@
-album count: 100
+album count: 102
 
 music log score colors:
 1/10 - 2/10: olive
@@ -76,7 +76,7 @@ jorja smith - be right back EP
 left at london, - t.i.a.p.f.y.h.
 loraine james - reflection
 mdou moctar - afrique victime
-medhane - amythest of morning 
+medhane - amythest of morning
 mon laferte - seis
 olivia rodrigo - sour
 origami angel - gami gang
@@ -104,11 +104,12 @@ man on man - self-titled
 rap ferreira - bob's son
 teenage fanclub - endless arcade
 
-5 / 10: 5
+5 / 10: 6
 ashnikko - demidevil
 arooj aftab - vulture prince
 manchester orchestra - the million masks of god
 selena gomez - revelación EP
+slayyyter - troubled paradise
 weezer - van weezer
 
 4 / 10: 4
@@ -121,8 +122,9 @@ rostam - changephobia
 weezer - ok human
 twenty one pilots - scaled and icy
 
-2 / 10: 1
+2 / 10: 2
 justin bieber - justice
+migos - culture iii
 
 1 / 10: 1
 AJR - ok orchestra
