@@ -1,4 +1,4 @@
-album count: 102
+album count: 104
 
 music log score colors:
 1/10 - 2/10: olive
@@ -57,7 +57,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 31
+7 / 10: 32
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -82,6 +82,7 @@ olivia rodrigo - sour
 origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
+pi'erre bourne - the life of pi'erre 5
 pom poko - cheater
 raheem devaughn / apollo brown - lovesick
 remember sports - like a stone
@@ -126,5 +127,6 @@ twenty one pilots - scaled and icy
 justin bieber - justice
 migos - culture iii
 
-1 / 10: 1
+1 / 10: 2
 AJR - ok orchestra
+maroon 5 - jordi
