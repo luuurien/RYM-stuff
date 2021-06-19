@@ -1,4 +1,4 @@
-album count: 105
+album count: 108
 
 music log score colors:
 1/10 - 2/10: olive
@@ -57,7 +57,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 33
+7 / 10: 36
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -73,6 +73,7 @@ jack ingram / miranda lambert / jon randall - the marfa tapes
 japanese breakfast - jubilee
 jazmine sullivan - heaux tales EP
 jorja smith - be right back EP
+king gizzard and the lizard wizard - butterfly 3000
 left at london, - t.i.a.p.f.y.h.
 loraine james - reflection
 mdou moctar - afrique victime
@@ -83,8 +84,10 @@ origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
 pi'erre bourne - the life of pi'erre 5
+polo g - hall of fame
 pom poko - cheater
 raheem devaughn / apollo brown - lovesick
+rebecca black - rebecca black was here 
 remember sports - like a stone
 run river north - creatures in your head
 sleater kinney - path of wellness
