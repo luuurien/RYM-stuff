@@ -1,4 +1,4 @@
-album count: 108
+album count: 109
 
 music log score colors:
 1/10 - 2/10: olive
@@ -26,7 +26,7 @@ slowthai - tyron
 spirit of the beehive - entertainment, death
 squid - bright green field
 
-8 / 10: 29
+8 / 10: 30
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 babii - miirror
 black country, new road - for the first time
@@ -50,6 +50,7 @@ patricia taxxon - daylight spectrum
 patricia taxxon - yes, and
 shame - drunk tank pink
 shelley - shelley fka dram
+skyzoo - all the brilliant things 
 st vincent - daddy's home
 teke::teke - shirushi
 the weather station - ignorance
@@ -87,7 +88,7 @@ pi'erre bourne - the life of pi'erre 5
 polo g - hall of fame
 pom poko - cheater
 raheem devaughn / apollo brown - lovesick
-rebecca black - rebecca black was here 
+rebecca black - rebecca black was here
 remember sports - like a stone
 run river north - creatures in your head
 sleater kinney - path of wellness
