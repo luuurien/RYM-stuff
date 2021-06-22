@@ -1,4 +1,4 @@
-album count: 109
+album count: 110
 
 music log score colors:
 1/10 - 2/10: olive
@@ -50,7 +50,7 @@ patricia taxxon - daylight spectrum
 patricia taxxon - yes, and
 shame - drunk tank pink
 shelley - shelley fka dram
-skyzoo - all the brilliant things 
+skyzoo - all the brilliant things
 st vincent - daddy's home
 teke::teke - shirushi
 the weather station - ignorance
@@ -96,10 +96,11 @@ sons of kemet - black to the future
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
 
-6 / 10: 12
+6 / 10: 13
 arlo parks - collapsed in sunbeams
 cacola - a gift to us all
 chance de la soul - afterparty
+cola boyy - prosthetic boombox
 czarface / mf doom - super what?
 danny l. harle - harlecore
 dinosaur jr - sweep it into space
