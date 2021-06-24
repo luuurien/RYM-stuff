@@ -1,17 +1,14 @@
 !!! == reviewed
 day names at end = what day to review
 
-
-
+--------------------------------------------------------------
 jan:
 
 LOREM IPSUM - VIVRE ENCORE (JAN 5)
 VIAGRA BOYS - WELFARE JAZZ (JAN 8)
 BICEP - ISLES (JAN 22)
 !!!ARLO PARKS - COLLAPSED IN SUNBEAMS (JAN 29)
-
-
-
+--------------------------------------------------------------
 february:
 
 POOH SHIESTY - SHIESTY SEASON
@@ -26,9 +23,7 @@ OTAY::ONII - MING MING
 !!!YU SU - YELLOW RIVER BLUE
 !!!BLACK COUNTRY NEW ROAD - FOR THE FIRST TIME
 PORTRAYAL OF GUILT - WE ARE ALWAYS ALONE
-
-
-
+--------------------------------------------------------------
 march:
 !!! DENZEL CURRY + KENNY BEATS - UNLOCKED 1.5 (MAR 5)
 TOBACCO - FUCKED UP FRIENDS 3 (MAR 5)
@@ -39,9 +34,7 @@ GLASS BEACH - ALCHEMIST RATS BEG BASHFUL (REMIXES) (MAR 5)
 !!!AJR - OK ORCHESTRA (MAR 26)
 !!!XIU XIU - OH NO (MAR 26)
 !!!ARMAND HAMMER + THE ALCHEMIST - HARAM (MAR 26)
-
-
-
+--------------------------------------------------------------
 april:
 !!!IGLOOGHOST - LEI LINE EON (APR 2)
 VARIOUS ARTISTS - THROUGH THE SOIL (APR 2)
@@ -86,9 +79,7 @@ ROYAL BLOOD - TYPHOONS (APR 30)
 !!!TEENAGE FANCLUB - ENDLESS ARCADE (APR 30)
 WARISH - NEXT TO PAY (APR 30)
 MYD - BORN A LOSER (APR 30)
-
-
-
+--------------------------------------------------------------
 may:
 !!!WEEZER - VAN WEEZER (MAY 7)
 !!!SQUID - BRIGHT GREEN FIELD (MAY 7)
@@ -97,98 +88,95 @@ may:
 !!!ICEAGE - SEEK SHELTER (MAY 7)
 !!!CZARFACE/MF DOOM - SUPER WHAT? (MAY 7)
 
-!!!ST. VINCENT - DADDY'S HOME (MAY 14) wed
-!!!SONS OF KEMENT - BLACK TO THE FUTURE (MAY 14) tues
+!!!ST. VINCENT - DADDY'S HOME (MAY 14)
+!!!SONS OF KEMENT - BLACK TO THE FUTURE (MAY 14)
 !!!J COLE - THE OFF SEASON (MAY 14)
 !!!JORJA SMITH - BE RIGHT BACK EP (MAY 14)
-!!!FATIMA AL QADIRI - MEDIVAL FEMME (MAY 14) tues
+!!!FATIMA AL QADIRI - MEDIVAL FEMME (MAY 14)
 
 LISA - LADYBUG (MAY 19)
 
-!!!MDOU MOCTAR - AFRIQUE VICTIME (MAY 21) mon
-!!!GEORGIA ANNE MULDROW - VWETO III (MAY 21) thur
-!!!CHAI - WINK (MAY 21) tues
-!!!BABII - MIIRROR (MAY 21) wed
-!!!OLIVIA RODRIGO - SOUR (MAY 21) mon
-LORD HURON - LONG LOST (MAY 21) thur
-!!!PATRICK PAIGE - IF I FAIL ARE WE STILL COOL? (MAY 21) fri
-!!!DAYGLOW - HARMONY HOUSE (MAY 21) fri
-!!!21 PILOTS - SCALED AND ICY (MAY 21) tues
-!!!PATRICIA TAXXON - YES, AND (MAY 21) wed
-REIGNING SOUND - A LITTLE MORE TIME WITH REIGNING SOUND (may 21) sat
-!!!DAVID JOHN MORRIS - MONASTIC LOVE SONGS (may 21) sat
-!!!ERIKA DE CASIER - SENSATIONAL (MAY 21) sun
-!!!MACH-HOMMY - PRAY FOR HAITI (MAY 21) sun
-MUST DIE - CRISIS VISION (may 21) ???
-VOLA - WITNESS (may 21) ???
-CLEWERSON - FUGA (MAY 21) ???
-YAUTJA - THE LURCH (MAY 21) ???
-FIDDLEHEAD - BETWEEN THE RICHNESS (MAY 21) ???
-SUNNY JAIN - PHOENIX RISE (MAY 21) ???
-LAMBCHOP - SHOWTUNES (MAY 21) ???
+!!!MDOU MOCTAR - AFRIQUE VICTIME (MAY 21)
+!!!GEORGIA ANNE MULDROW - VWETO III (MAY 21)
+!!!CHAI - WINK (MAY 21)
+!!!BABII - MIIRROR (MAY 21)
+!!!OLIVIA RODRIGO - SOUR (MAY 21)
+LORD HURON - LONG LOST (MAY 21)
+!!!PATRICK PAIGE - IF I FAIL ARE WE STILL COOL? (MAY 21)
+!!!DAYGLOW - HARMONY HOUSE (MAY 21)
+!!!21 PILOTS - SCALED AND ICY (MAY 21)
+!!!PATRICIA TAXXON - YES, AND (MAY 21)
+REIGNING SOUND - A LITTLE MORE TIME WITH REIGNING SOUND (may 21)
+!!!DAVID JOHN MORRIS - MONASTIC LOVE SONGS (may 21)
+!!!ERIKA DE CASIER - SENSATIONAL (MAY 21)
+!!!MACH-HOMMY - PRAY FOR HAITI (MAY 21)
+MUST DIE - CRISIS VISION (may 21)
+VOLA - WITNESS (may 21)
+CLEWERSON - FUGA (MAY 21)
+YAUTJA - THE LURCH (MAY 21)
+FIDDLEHEAD - BETWEEN THE RICHNESS (MAY 21)
+SUNNY JAIN - PHOENIX RISE (MAY 21)
+LAMBCHOP - SHOWTUNES (MAY 21)
 
-MUSTAFA - WHEN SMOKE RISES (MAY 28) wed
-BACHELOR - DOOMIN SUN (MAY 28) tues
-!!!BLACK MIDI - CAVALCADE (MAY 28) thur
-!!!SWEET TRIP - A TINY HOUSE, IN SECRET SPEECHES, POLAR EQUALS (MAY 28) wed
+MUSTAFA - WHEN SMOKE RISES (MAY 28)
+BACHELOR - DOOMIN SUN (MAY 28)
+!!!BLACK MIDI - CAVALCADE (MAY 28)
+!!!SWEET TRIP - A TINY HOUSE, IN SECRET SPEECHES, POLAR EQUALS (MAY 28)
 !!!DMX - EXODUS (MAY 28) mon
-PERTURBATOR - LUSTFUL SACRAMENTS (MAY 28) thur
+PERTURBATOR - LUSTFUL SACRAMENTS (MAY 28)
 MANNEQUIN PUSSY - PERFECT EP (MAY 28)
-YOUNG MA - OFF THE YAK (MAY 28) fri
-!!!NATALIA LAFOURCADE - UN CANTO POR MEXICO, VOL 2 (MAY 28) tues
-BLADEE - THE FOOL (MAY 28) mon
-!!!MEDHANE - AMYTHEST THE MORNING (MAY 28) sat
-PORTICO QUARTET - TERRAIN sat
-
-
-
+YOUNG MA - OFF THE YAK (MAY 28)
+!!!NATALIA LAFOURCADE - UN CANTO POR MEXICO, VOL 2 (MAY 28)
+BLADEE - THE FOOL (MAY 28)
+!!!MEDHANE - AMYTHEST THE MORNING (MAY 28)
+PORTICO QUARTET - TERRAIN
+--------------------------------------------------------------
 june:
 
-!!!LEFT AT LONDON - TIAPFYH (JUNE 4) mon
-!!!JAPANESE BREAKFAST - JUBILEE (JUNE 4) thur
-!!!ROSTAM - CHANGEPHOBIA (JUNE 4) wed
-!!!LORAINE JAMES - REFLECTION (JUNE 4) mon
+!!!LEFT AT LONDON - TIAPFYH (JUNE 4)
+!!!JAPANESE BREAKFAST - JUBILEE (JUNE 4)
+!!!ROSTAM - CHANGEPHOBIA (JUNE 4)
+!!!LORAINE JAMES - REFLECTION (JUNE 4)
 VARIOUS ARTISTS - THE PROBLEM OF LEISURE (JUNE 4)
-!!!RAHEEM DEVAUGHN / APOLLO BROWN - LOVESICK (JUNE 4) tues
-!!!WOLF ALICE - BLUE WEEKEND (JUNE 4) wed
+!!!RAHEEM DEVAUGHN / APOLLO BROWN - LOVESICK (JUNE 4)
+!!!WOLF ALICE - BLUE WEEKEND (JUNE 4)
 
 INDIA JORDAN - WATCH OUT EP (JUNE 7)
 
-!!!SLAYYYTER - TROUBLED PARADISE (JUNE 11) tues
-MARINA - ANCIENT DREAMS IN A TROUBLED LAND (JUNE 11) wed
-!!!SLEATER-KINNEY - PATH OF WELLNESS (JUNE 11) wed
-!!!KING GIZZARD AND THE LIZARD WIZARD - BUTTERFLY 3000 (JUNE 11) thur
-!!!MIGOS - CULTURE III (JUNE 11) mon
-!!!MAROON 5 - JORDI (JUNE 11) tues
-DEAN BLUNT - BLACK METAL 2 (JUNE 11) fri
-!!!PIERRE BOURNE - THE LIFE OF PIERRE 5 (JUNE 11) tues
-!!!POLO G - HALL OF FAME (JUNE 11) thur
+!!!SLAYYYTER - TROUBLED PARADISE (JUNE 11)
+MARINA - ANCIENT DREAMS IN A TROUBLED LAND (JUNE 11)
+!!!SLEATER-KINNEY - PATH OF WELLNESS (JUNE 11)
+!!!KING GIZZARD AND THE LIZARD WIZARD - BUTTERFLY 3000 (JUNE 11)
+!!!MIGOS - CULTURE III (JUNE 11)
+!!!MAROON 5 - JORDI (JUNE 11)
+DEAN BLUNT - BLACK METAL 2 (JUNE 11)
+!!!PIERRE BOURNE - THE LIFE OF PIERRE 5 (JUNE 11)
+!!!POLO G - HALL OF FAME (JUNE 11)
 
-!!!REBECCA BLACK - REBECCA BLACK WAS HERE (JUNE 16) fri
+!!!REBECCA BLACK - REBECCA BLACK WAS HERE (JUNE 16)
 
-MYKKI BLANCO - BROKEN HEARTS AND BEAUTY SLEEP (JUNE 18) thur
-!!!COLA BOYY - PROSTHETIC BOOMBOX (JUNE 18) mon
-!!!H.E.R - BACK OF MY MIND (JUNE 18) tues
-GOLDLINK - HARAM! (JUNE 18) fri
-!!!KINGS OF CONVENIENCE - PEACE OR LOVE (JUNE 18) tues
+MYKKI BLANCO - BROKEN HEARTS AND BEAUTY SLEEP (JUNE 18) fri
+!!!COLA BOYY - PROSTHETIC BOOMBOX (JUNE 18)
+!!!H.E.R - BACK OF MY MIND (JUNE 18)
+!!!GOLDLINK - HARAM! (JUNE 18) 
+!!!KINGS OF CONVENIENCE - PEACE OR LOVE (JUNE 18)
 MAX BLOOM - PEDESTRIAN - (JUNE 18) fri
-!!!AMYTHEST KIAH - WARY + STRANGE (JUNE 18) wed
+!!!AMYTHEST KIAH - WARY + STRANGE (JUNE 18)
 
 
-BACKXWASH - I LIE HERE BURIED WITH MY RINGS AND MY DRESSES (JUNE 20) THUR
+!!!BACKXWASH - I LIE HERE BURIED WITH MY RINGS AND MY DRESSES (JUNE 20)
 
 MIKE - DISCO (JUNE 21) fri
 
-lucy dacus - home video (june 25)
+lucy dacus - home video (june 25) fri
 haitus kaiyote - mood valiant (june 25)
-mother mother - inside (june 25)
-faye webster - i know i'm funny haha (june 25)
-modest mouse - the golden casket (june 25)
-modest mouse - inside (june 25)
+mother mother - inside (june 25) sat
+faye webster - i know i'm funny haha (june 25) wed
+modest mouse - the golden casket (june 25) mon
 phil wickam - hymn of heaven (june 25)
 the mountain goats - dark in here (june 25)
-doja cat - planet her (june 25)
-tyler, the creator - call me if you get lost (june 25)
+doja cat - planet her (june 25) tues
+tyler, the creator - call me if you get lost (june 25) thur
 spelllling - the turning wheel (june 25)
 l'rain - fatigue (june 25)
 hiss golden messenger - quietly blowing it (june 25)
@@ -205,9 +193,7 @@ ski mask the slump god - sin city the mixtape (june 25)
 cautious clay - deadpan love (june 25)
 
 loona - [&] (june 28)
-
-
-
+--------------------------------------------------------------
 july:
 lana del rey - blue banisters (july 4)
 the go team - get up sequences part one (july 4)
@@ -221,6 +207,8 @@ ksi - all over the place (july 16)
 john mayer - sob rock (july 16)
 waaves - hideaway (july 16)
 
+czarface - czar noir (july 17)
+
 leon bridges - gold diggers sound (july 23)
 darkspell - spiral (july 23)
 molly burch - romantic imagery (july 23)
@@ -231,9 +219,7 @@ billie eilish - happier than ever (july 30)
 yola - stand for myself (july 30)
 torres - thirstier (july 30)
 durand jones & the indications - private space (july 30)
-
-
-
+--------------------------------------------------------------
 august:
 lingua ignota - sinner get ready (aug 8)
 foxing - draw down the moon (aug 8)
@@ -243,11 +229,10 @@ deafheaven - infinite granite (aug 20)
 bleachers - Take The Sadness Out Of Saturday Night (aug 20)
 maggie rose - have a seat (aug 20)
 lorde - solar power (aug 20)
+tropical fuck storm - deep states (aug 20)
 
 chvrches - screen violence (aug 27)
-
-
-
+--------------------------------------------------------------
 september:
 little simz - sometimes i might be introvert (sep 3)
 
@@ -256,15 +241,11 @@ low - hey what (sep 10)
 jose gonzales - local valley (sep 17)
 
 andrew wk - god is partying (sep 21)
-
-
-
+--------------------------------------------------------------
 october:
 illuminati hotties - let me do one more (oct 1)
 
 pond - 9 (oct 10)
-
-
-
+--------------------------------------------------------------
 november:
 damon albarn - the nearer the fountain, more pure the stream flows (nov 12)

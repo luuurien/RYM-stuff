@@ -1,4 +1,4 @@
-album count: 113
+album count: 115
 
 music log score colors:
 1/10 - 2/10: olive
@@ -7,6 +7,7 @@ music log score colors:
 7/10 - 8/10: red
 9/10 - 10/10: maroon
 
+-------------------------------------------------------------
 10/10: 6
 black midi - cavalcade
 godspeed you! black emperor - g_d's pee at states end!
@@ -14,7 +15,7 @@ pinegrove - amperland,ny
 porter robinson - nurture
 rochelle jordan - play with the changes
 sweet trip - a tiny house, in secret speeches, polar equals
-
+-------------------------------------------------------------
 9 / 10: 9
 black dresses - forever in your heart
 frogman - slyme koro
@@ -25,7 +26,7 @@ renee reed - self titled
 slowthai - tyron
 spirit of the beehive - entertainment, death
 squid - bright green field
-
+-------------------------------------------------------------
 8 / 10: 30
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 babii - miirror
@@ -57,8 +58,8 @@ the weather station - ignorance
 wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
-
-7 / 10: 37
+-------------------------------------------------------------
+7 / 10: 38
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
@@ -71,6 +72,7 @@ doss - 4 new hit songs
 ethel cain - inbred EP
 georgia anne muldrow - vweto iii
 girl in red - if i could make it go quiet
+goldlink - haram!
 jack ingram / miranda lambert / jon randall - the marfa tapes
 japanese breakfast - jubilee
 jazmine sullivan - heaux tales EP
@@ -96,7 +98,7 @@ sleater kinney - path of wellness
 sons of kemet - black to the future
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
-
+-------------------------------------------------------------
 6 / 10: 14
 arlo parks - collapsed in sunbeams
 cacola - a gift to us all
@@ -107,35 +109,36 @@ danny l. harle - harlecore
 dinosaur jr - sweep it into space
 fatima al qadiri - medieval femme
 julien baker - little oblivions
-kings of convenience - peace or love 
+kings of convenience - peace or love
 mach-hommy - pray for haiti
 man on man - self-titled
 rap ferreira - bob's son
 teenage fanclub - endless arcade
-
-5 / 10: 6
+-------------------------------------------------------------
+5 / 10: 7
 ashnikko - demidevil
 arooj aftab - vulture prince
+backxwash - i lie here buried with my rings and my dresses
 manchester orchestra - the million masks of god
 selena gomez - revelación EP
 slayyyter - troubled paradise
 weezer - van weezer
-
+-------------------------------------------------------------
 4 / 10: 5
 dmx - exodus
 h.e.r. - back of my mind
 j cole - the off season
 madison beer - life support
 rostam - changephobia
-
+-------------------------------------------------------------
 3 / 10: 2
 weezer - ok human
 twenty one pilots - scaled and icy
-
+-------------------------------------------------------------
 2 / 10: 2
 justin bieber - justice
 migos - culture iii
-
+-------------------------------------------------------------
 1 / 10: 2
 AJR - ok orchestra
 maroon 5 - jordi
