@@ -1,4 +1,4 @@
-album count: 110
+album count: 113
 
 music log score colors:
 1/10 - 2/10: olive
@@ -58,7 +58,8 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 
-7 / 10: 36
+7 / 10: 37
+amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cfcf - memoryland
@@ -96,7 +97,7 @@ sons of kemet - black to the future
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
 
-6 / 10: 13
+6 / 10: 14
 arlo parks - collapsed in sunbeams
 cacola - a gift to us all
 chance de la soul - afterparty
@@ -106,6 +107,7 @@ danny l. harle - harlecore
 dinosaur jr - sweep it into space
 fatima al qadiri - medieval femme
 julien baker - little oblivions
+kings of convenience - peace or love 
 mach-hommy - pray for haiti
 man on man - self-titled
 rap ferreira - bob's son
@@ -119,8 +121,9 @@ selena gomez - revelación EP
 slayyyter - troubled paradise
 weezer - van weezer
 
-4 / 10: 4
+4 / 10: 5
 dmx - exodus
+h.e.r. - back of my mind
 j cole - the off season
 madison beer - life support
 rostam - changephobia
