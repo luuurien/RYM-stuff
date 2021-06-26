@@ -1,6 +1,5 @@
-album count: 115
+album count: 117
 
-music log score colors:
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
 5/10 - 6/10: orange
@@ -27,7 +26,7 @@ slowthai - tyron
 spirit of the beehive - entertainment, death
 squid - bright green field
 -------------------------------------------------------------
-8 / 10: 30
+8 / 10: 31
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 babii - miirror
 black country, new road - for the first time
@@ -46,6 +45,7 @@ iceage - seek shelter
 kučka - wrestling
 lana del rey - chemtrails over the country club
 mat sweeney / bonnie "prince" billy - superwolves
+max bloom - pedestrian
 parannoul - to see the next part of the dream
 patricia taxxon - daylight spectrum
 patricia taxxon - yes, and
@@ -99,7 +99,7 @@ sons of kemet - black to the future
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
 -------------------------------------------------------------
-6 / 10: 14
+6 / 10: 15
 arlo parks - collapsed in sunbeams
 cacola - a gift to us all
 chance de la soul - afterparty
@@ -112,6 +112,7 @@ julien baker - little oblivions
 kings of convenience - peace or love
 mach-hommy - pray for haiti
 man on man - self-titled
+mykki blanco - broken hearts and beauty sleep
 rap ferreira - bob's son
 teenage fanclub - endless arcade
 -------------------------------------------------------------
