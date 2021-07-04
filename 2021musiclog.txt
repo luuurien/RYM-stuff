@@ -1,4 +1,4 @@
-album count: 135
+album count: 136
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -22,7 +22,7 @@ black dresses - forever in your heart
 faye webster - i know i'm funny haha
 frogman - slyme koro
 iglooghost - lei line eon
-l'rain - fatigue 
+l'rain - fatigue
 natalia lafourcade - un canto por mexico vol 2
 radio supernova - takaisin
 renee reed - self titled
@@ -65,7 +65,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 43
+7 / 10: 44
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
@@ -106,6 +106,7 @@ run river north - creatures in your head
 sault - nine
 sleater kinney - path of wellness
 sons of kemet - black to the future
+spellling - the turning wheel
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
 -------------------------------------------------------------
