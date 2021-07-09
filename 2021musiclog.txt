@@ -1,4 +1,4 @@
-album count: 140
+album count: 141
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -67,13 +67,14 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 45
+7 / 10: 46
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cautious clay - deadpan love
 cfcf - memoryland
 claud - super monster
+cosha - mt. pleasant
 dayglow - harmony house
 denzel curry x kenny beats - unlocked 1.5
 dodie - build a problem
