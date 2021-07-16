@@ -1,4 +1,4 @@
-album count: 147
+album count: 149
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -69,11 +69,12 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 46
+7 / 10: 48
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cautious clay - deadpan love
+cavs - cavs
 cfcf - memoryland
 claud - super monster
 cosha - mt. pleasant
@@ -111,6 +112,7 @@ remember sports - like a stone
 run river north - creatures in your head
 sault - nine
 sleater kinney - path of wellness
+soda blonde - small talk 
 sons of kemet - black to the future
 spellling - the turning wheel
 underscores - fishmonger
@@ -144,7 +146,7 @@ dz deathrays - positive rising, pt 2
 gaspard auge - escapades
 john grant - boy from michigan
 manchester orchestra - the million masks of god
-rejjjie snow - baw baw black sheep 
+rejjjie snow - baw baw black sheep
 selena gomez - revelación EP
 slayyyter - troubled paradise
 weezer - van weezer
