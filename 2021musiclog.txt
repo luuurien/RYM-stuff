@@ -1,4 +1,4 @@
-album count: 153
+album count: 155
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -71,13 +71,14 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 50
+7 / 10: 51
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 cadence weapon - parallel world
 cautious clay - deadpan love
 cavs - cavs
 cfcf - memoryland
+charli adams - bullseye
 claud - super monster
 cosha - mt. pleasant
 dayglow - harmony house
@@ -163,8 +164,9 @@ koreless - agor
 madison beer - life support
 rostam - changephobia
 -------------------------------------------------------------
-3 / 10: 4
+3 / 10: 5
 dmx - exodus
+ksi - all over the place
 modest mouse - the golden casket
 twenty one pilots - scaled and icy
 weezer - ok human
