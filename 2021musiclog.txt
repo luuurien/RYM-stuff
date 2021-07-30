@@ -1,4 +1,4 @@
-album count: 169
+album count: 171
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -75,7 +75,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 57
+7 / 10: 59
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -87,7 +87,7 @@ charli adams - bullseye
 clairo - sling
 claud - super monster
 cosha - mt. pleasant
-darkside - spiral 
+darkside - spiral
 dayglow - harmony house
 denzel curry x kenny beats - unlocked 1.5
 dodie - build a problem
@@ -109,6 +109,7 @@ left at london - t.i.a.p.f.y.h.
 loraine james - reflection
 mariah the scientist - ry ry world
 mdou moctar - afrique victime
+mega bog - life, and another
 medhane - amythest of morning
 mike - disco!
 mon laferte - seis
@@ -117,6 +118,7 @@ origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
 pi'erre bourne - the life of pi'erre 5
+piroshka - love drips and gathers
 polo g - hall of fame
 pom poko - cheater
 raheem devaughn / apollo brown - lovesick
