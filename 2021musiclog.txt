@@ -1,4 +1,4 @@
-album count: 176
+album count: 178
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -76,7 +76,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 62
+7 / 10: 63
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -136,6 +136,7 @@ sons of kemet - black to the future
 spellling - the turning wheel
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
+vylet pony - cutiemarks (and the things that bind us)
 wavves - hideaway
 yes/and - yes/and
 -------------------------------------------------------------
@@ -174,7 +175,8 @@ selena gomez - revelación EP
 slayyyter - troubled paradise
 weezer - van weezer
 -------------------------------------------------------------
-4 / 10: 8
+4 / 10: 9
+billie eilish - happier than ever
 doja cat - planet her
 h.e.r. - back of my mind
 j cole - the off season
