@@ -317,11 +317,11 @@ DAM FUNK - ABOVE THE FRAY (JULY 30)
 DAVE EAST / HARRY FRAUD - HOFFA (JULY 30) sat
 DURAND JONES & THE INDICATIONS - PRIVATE SPACE (JULY 30) sun
 GFOTY - FEMMEDOM (JULY 30)
-HORSEY - DEBONAIR (JULY 30) sun
+HORSEY - DEBONAIR (JULY 30) sat
 !!!ISAISH RASHAD - THE HOUSE IS BURNING (JULY 30)
 KING WOMAN - CELESTIAL BLUES (JULY 30) thur
-LANTLOS - WILDHUND (JULY 30) wed
-LOGIC - BOBBY TARANTINTO III (JULY 30) wed
+!!!LANTLOS - WILDHUND (JULY 30)
+!!!LOGIC - BOBBY TARANTINTO III (JULY 30)
 LUMP (LAURA MARLING / MIKE LINDSAY) - ANIMAL (JULY 30) fri
 NEEDTOBREATH - INTO THE MYSTERY (JULY 30)
 SKEPTA - ALL IN EP(JULY 30)
@@ -329,33 +329,32 @@ SON VOLT - ELECTRIC MELODIER (JULY 30)
 SYCCO - SYCCO'S FIRST EP (JULY 30)
 TORRES - THIRSTIER (JULY 30)
 !!!VYLET PONY - CUTIEMARKS (AND THE THINGS THAT BIND US) (JULY 30)
-YOLA - STAND FOR MYSELF (JULY 30) thur
+!!!YOLA - STAND FOR MYSELF (JULY 30) 
 PEPPA PIG - PEPPA'S ADVENTURES: THE ALBUM (JULY 30)
 !!!BLEACHERS - TAKE THE SADNESS OUT OF SATURDAY NIGHT (JULY 30)
 JOHN GLACIER - SHILOH: LOST FOR WORDS (JULY 30) fri
 
-LEON CHANG - LEON MODE (JULY 31) sat
+LEON CHANG - LEON MODE (JULY 31) sun
 --------------------------------------------------------------
 august:
 ASTRO - SWITCH ON (AUG 2)
 IAMJAKEHILL - DYING LATELY (AUG 2)
 
-dappy - fortune (aug 6)
-foxing - draw down the moon (aug 6)
-liars - the apple drop (aug 6)
-laura stevenson - laura stevenson (aug 6)
-mortiz von oswald trio - dissent (aug 6)
-night ranger - atbpo (aug 6)
-rza - rza vs bobby digital (aug 6)
-willy mason - already dead (aug 6)
-lingua ignota - sinner get ready (aug 6)
-ider - shame (aug 6)
-nick wilson - now i'm falling (aug 6)
-will young - crying on the bathroom floor (aug 6)
-chris young - famous friends (aug 6)
-kanye west - donda (aug 6)
-tinashe - 333 (aug 6)
-spice - 10 (aug 6)
+FOXING - DRAW DOWN THE MOON (AUG 6)
+LIARS - THE APPLE DROP (AUG 6)
+LAURA STEVENSON - LAURA STEVENSON (AUG 6)
+MORTIZ VON OSWALD TRIO - DISSENT (AUG 6)
+NIGHT RANGER - ATBPO (AUG 6)
+WILLY MASON - ALREADY DEAD (AUG 6)
+LINGUA IGNOTA - SINNER GET READY (AUG 6)
+IDER - SHAME (AUG 6)
+WILL YOUNG - CRYING ON THE BATHROOM FLOOR (AUG 6)
+CHRIS YOUNG - FAMOUS FRIENDS (AUG 6)
+TINASHE - 333 (AUG 6)
+SPICE - 10 (AUG 6)
+ABSTRACT MINDSTATE - DREAMS STILL INSPIRE (AUG 6)
+NAS - KING'S DISEASE II (AUG 6)
+
 
 blacktop mojo - blacktop mojo (aug 13)
 joey cape - a good year to forget (aug 13)
@@ -403,7 +402,8 @@ martha wainwright - love will be reborn (aug 20)
 shannon and the clams - year of the spider (aug 20)
 wolves in the throne room - primordial arcana (aug 20)
 angel olsen - aisles (aug 20)
-
+between the buried and me - colors ii (aug 20)
+sturgil simpson - the ballad of dood & juanita (aug 20)
 chvrches - screen violence (aug 27)
 bliss n eso - the sun (aug 27)
 chubby and the gang - the mutt's nuts (aug 27)
@@ -468,6 +468,7 @@ illuminati hotties - let me do one more (oct 1)
 brandy carlile - in these silent days (oct 1)
 
 porches - all day gentle hold! (oct 8)
+the world is a beautiful place and i am no longer afraid to die - illusory walls (oct 8)
 
 pond - 9 (oct 10)
 
