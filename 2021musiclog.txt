@@ -1,4 +1,4 @@
-album count: 188
+album count: 189
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -83,7 +83,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 66
+7 / 10: 67
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -130,6 +130,7 @@ olivia rodrigo - sour
 origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
+patricia taxxon - walks of lung 
 pi'erre bourne - the life of pi'erre 5
 piroshka - love drips and gathers
 polo g - hall of fame
