@@ -1,4 +1,4 @@
-album count: 189
+album count: 190
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -7,7 +7,7 @@ album count: 189
 9/10 - 10/10: maroon
 
 -------------------------------------------------------------
-10/10: 11
+10 / 10: 11
 black midi - cavalcade
 godspeed you! black emperor - g_d's pee at states end!
 lingua ignota - sinner get ready
@@ -83,7 +83,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 67
+7 / 10: 68
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -102,6 +102,7 @@ denzel curry x kenny beats - unlocked 1.5
 dodie - build a problem
 doss - 4 new hit songs EP
 ethel cain - inbred EP
+garrett atterberry - fairchild channel f
 georgia anne muldrow - vweto iii
 girl in red - if i could make it go quiet
 goldlink - haram!
@@ -130,7 +131,7 @@ olivia rodrigo - sour
 origami angel - gami gang
 patrick paige - if i fail are we still cool?
 patricia taxxon - new piranesi
-patricia taxxon - walks of lung 
+patricia taxxon - walks of lung
 pi'erre bourne - the life of pi'erre 5
 piroshka - love drips and gathers
 polo g - hall of fame
