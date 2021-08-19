@@ -1,4 +1,4 @@
-album count: 190
+album count: 191
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -83,7 +83,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 68
+7 / 10: 69
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -146,6 +146,7 @@ sleater kinney - path of wellness
 soda blonde - small talk
 sons of kemet - black to the future
 spellling - the turning wheel
+still woozy - if this isn't nice, i don't know what is
 underscores - fishmonger
 taylor swift - fearless (taylor's version)
 vylet pony - cutiemarks (and the things that bind us)
