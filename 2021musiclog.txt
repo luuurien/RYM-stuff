@@ -1,4 +1,4 @@
-album count: 194
+album count: 195
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -7,8 +7,9 @@ album count: 194
 9/10 - 10/10: maroon
 
 -------------------------------------------------------------
-10 / 10: 11
+10 / 10: 12
 black midi - cavalcade
+deafheaven - infinite granite
 godspeed you! black emperor - g_d's pee at states end!
 lingua ignota - sinner get ready
 lucid express - lucid express
