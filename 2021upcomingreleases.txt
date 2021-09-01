@@ -416,8 +416,8 @@ ANGEL OLSEN - AISLES (AUG 20)
 BETWEEN THE BURIED AND ME - COLORS II (AUG 20)
 STURGIL SIMPSON - THE BALLAD OF DOOD & JUANITA (AUG 20)
 
-MEN I TRUST - UNTOURABLE ALBUM mon
-CHVRCHES - SCREEN VIOLENCE (AUG 27) wed
+!!!MEN I TRUST - UNTOURABLE ALBUM
+!!!CHVRCHES - SCREEN VIOLENCE (AUG 27)
 BLISS N ESO - THE SUN (AUG 27)
 CHUBBY AND THE GANG - THE MUTT'S NUTS (AUG 27)
 E*VAX - E*VAX (AUG 27)
@@ -426,7 +426,7 @@ JINJER - WALLFLOWERS (AUG 27)
 MAISIE PETERS - YOU SIGNED UP FOR THIS (AUG 27)
 MARISA ANDERSON AND WILLIAM TYLER - LOST FUTURES (AUG 27) tues
 MOUSE RAT - AWESOME ALBUM (AUG 27)
-NGAIIRE - 3 (AUG 27) mon
+!!!NGAIIRE - 3 (AUG 27)
 KAT VON D - YOU MADE ME DO IT (AUG 27)
 DANKO JONES - POWER TRIO (AUG 27)
 POWELL - PIANO MUSIC 1-7 (AUG 27)
@@ -439,12 +439,12 @@ INDIGO DE SOUSA - HOLD U (AUG 27) fri
 NITE JEWEL - NO SUN (AUG 27) thur
 CHUBBY AND THE GANG - THE MUTT'S NUTS (AUG 27)
 LEPROUS - APHELION (AUG 27)
-WESTSIDE GUNN - HITLER WEARS HERMES (AUG 27) tues
+!!!WESTSIDE GUNN - HITLER WEARS HERMES (AUG 27) 
 FLUISETTARS - GEGREPEN... (AUG 27) sun
 YANN TIERSEN - KERBER (AUG 27)
 TURNSTILE - GLOW ON (AUG 27) thur
 HAIKU SALUT - THE HILL, THE LIGHT, THE GHOST (AUG 27)
-WATER FROM YOUR EYES - STRUCTURE (AUG 27)
+WATER FROM YOUR EYES - STRUCTURE (AUG 27) wed
 MADI DIAZ - HISTORY OF A FEELING (AUG 27)
 SPACE AFRIKA - HONEST LABOR (AUG 27)
 PORTEST - CANCER IN THE SOFT BREEZE (AUG 27) sat
@@ -453,7 +453,6 @@ ELENI DRAKE - CAN'T STOP THE DAWN (AUG 27)
 STEVEN GUNN - OTHER YOU (AUG 27)
 BENDIK GISKE - CRACKS (AUG 27) SUN
 BIG RED MACHINE - HOW LONG DO YOU THINK IT'S GONNA LAST (AUG 27) fri
-
 KANYE WEST - DONDA (AUG 27) SAT
 --------------------------------------------------------------
 september:
@@ -465,6 +464,12 @@ manic street preachers - the ultra vivid lament (sep 3)
 the wildhearts - 21st century love songs (sep 3)
 little simz - sometimes i might be introvert (sep 3)
 jhay cortez - timelezz (sep 3)
+drake - certified lover boy (sep 3)
+big boi / sleepy brown - the big sleepover (sep 3)
+imagine dragons - mercury, act 1 (sep 3)
+iron maiden - senjutsu (sep 3)
+lady gaga - dawn of chromatica - the remix album (sep 3)
+lany - gn bb xx (sep 3)
 
 low - hey what (sep 10)
 park hye jin - before i die (sep 10)
