@@ -447,37 +447,34 @@ HAIKU SALUT - THE HILL, THE LIGHT, THE GHOST (AUG 27)
 !!!WATER FROM YOUR EYES - STRUCTURE (AUG 27)
 MADI DIAZ - HISTORY OF A FEELING (AUG 27)
 SPACE AFRIKA - HONEST LABOR (AUG 27)
-PORTEST - CANCER IN THE SOFT BREEZE (AUG 27) sat
+PORTEST - CANCER IN THE SOFT BREEZE (AUG 27)
 RONIIT - BLOOM (AUG 27)
 ELENI DRAKE - CAN'T STOP THE DAWN (AUG 27)
 STEVEN GUNN - OTHER YOU (AUG 27)
-BENDIK GISKE - CRACKS (AUG 27) SUN
-BIG RED MACHINE - HOW LONG DO YOU THINK IT'S GONNA LAST (AUG 27) fri
-KANYE WEST - DONDA (AUG 27) sat
+BENDIK GISKE - CRACKS (AUG 27)
+!!!BIG RED MACHINE - HOW LONG DO YOU THINK IT'S GONNA LAST (AUG 27)
+!!!KANYE WEST - DONDA (AUG 27)
 --------------------------------------------------------------
 september:
 SARD UNDERGROUND - ORANGE IRO NI KANPAI (SEP 1)
 
-FS BLUMM / NILS FRAHM - 2X1=4 (SEP 3)
-IMAGINE DRAGON - MERCURY, ACT 1 (SEP 3)
+FS BLUMM / NILS FRAHM - 2X1=4 (SEP 3) thur
+IMAGINE DRAGON - MERCURY, ACT 1 (SEP 3) tues
 MANIC STREET PREACHERS - THE ULTRA VIVID LAMENT (SEP 3)
 THE WILDHEARTS - 21ST CENTURY LOVE SONGS (SEP 3)
 LITTLE SIMZ - SOMETIMES I MIGHT BE INTROVERT (SEP 3) thur
 JHAY CORTEZ - TIMELEZZ (SEP 3)
 DRAKE - CERTIFIED LOVER BOY (SEP 3) mon
-BIG BOI / SLEEPY BROWN - THE BIG SLEEPOVER (SEP 3)
-IMAGINE DRAGONS - MERCURY, ACT 1 (SEP 3)
-IRON MAIDEN - SENJUTSU (SEP 3)
+IRON MAIDEN - SENJUTSU (SEP 3) tues
 LADY GAGA - DAWN OF CHROMATICA - THE REMIX ALBUM (SEP 3)
-LANY - GN BB XX (SEP 3)
-L'ORANGE - THE WORLD IS STILL CHAOS, BUT I FEEL BETTER (SEP 3)
-LAWRENCE ENGLISH - A MIRROR HOLDS THE SKY (SEP 3)
-LAUREN ALAINA - SITTING PRETTY ON TOP OF THE WORLD (SEP 3)
-WH LUNG - VANITIES (SEP 3)
-MOTORISTS - SURROUNDED (SEP 3)
+LANY - GN BB XX (SEP 3) fri
+L'ORANGE - THE WORLD IS STILL CHAOS, BUT I FEEL BETTER (SEP 3) wed
+LAWRENCE ENGLISH - A MIRROR HOLDS THE SKY (SEP 3) fri
+LAUREN ALAINA - SITTING PRETTY ON TOP OF THE WORLD (SEP 3) mon
+MOTORISTS - SURROUNDED (SEP 3) wed
 SUUNS - THE WITNESS (SEP 3)
-CARNIFEX - GRAVESIDE CONFESSIONS (SEP 3)
-CLAIRE LAFFUT - BLEU (SEP 3)
+CARNIFEX - GRAVESIDE CONFESSIONS (SEP 3) sat
+CLAIRE LAFFUT - BLEU (SEP 3) sat
 
 low - hey what (sep 10)
 park hye jin - before i die (sep 10)
@@ -498,7 +495,7 @@ lisa - lalisa (sep 10)
 
 
 injury reserve - by the time i get to phoenix (sep 15)
-cancer bats - you'll never break us (sep 15) 
+cancer bats - you'll never break us (sep 15)
 
 alien weaponry - tangaroa (sep 17)
 candlebox - wolves (sep 17)
@@ -524,6 +521,7 @@ wiki - half god (oct 1)
 
 porches - all day gentle hold! (oct 8)
 the world is a beautiful place and i am no longer afraid to die - illusory walls (oct 8)
+wh lung - vanities (oct 8)
 
 pond - 9 (oct 10)
 
@@ -548,6 +546,5 @@ courney barnett - things take time, take time (nov 12)
 irreversible entanglements - open the gates (nov 12)
 damon albarn - the nearer the fountain, more pure the stream flows (nov 12)
 john hopkins - music for psychedelic therapy (nov 12)
-
 
 taylor swift - red (taylor's version) {nov 19}
