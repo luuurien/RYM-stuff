@@ -1,4 +1,4 @@
-album count: 211
+album count: 212
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -7,12 +7,13 @@ album count: 211
 9/10 - 10/10: maroon
 
 -------------------------------------------------------------
-10 / 10: 14
+10 / 10: 15
 black midi - cavalcade
 deafheaven - infinite granite
 godspeed you! black emperor - g_d's pee at states end!
 indigo de souza - any shape you take
 lingua ignota - sinner get ready
+little simz - sometimes i might be introvert
 lucid express - lucid express
 lucy dacus - home video
 nite jewel - no sun
