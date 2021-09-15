@@ -2,14 +2,14 @@
 day names at end = what day to review
 
 --------------------------------------------------------------
-jan:
+JAN:
 
 LOREM IPSUM - VIVRE ENCORE (JAN 5)
 VIAGRA BOYS - WELFARE JAZZ (JAN 8)
 BICEP - ISLES (JAN 22)
 !!!ARLO PARKS - COLLAPSED IN SUNBEAMS (JAN 29)
 --------------------------------------------------------------
-february:
+FEBRUARY:
 
 POOH SHIESTY - SHIESTY SEASON
 JPEGMAFIA - EP2
@@ -24,7 +24,7 @@ OTAY::ONII - MING MING
 !!!BLACK COUNTRY NEW ROAD - FOR THE FIRST TIME
 PORTRAYAL OF GUILT - WE ARE ALWAYS ALONE
 --------------------------------------------------------------
-march:
+MARCH:
 !!! DENZEL CURRY + KENNY BEATS - UNLOCKED 1.5 (MAR 5)
 TOBACCO - FUCKED UP FRIENDS 3 (MAR 5)
 GLASS BEACH - ALCHEMIST RATS BEG BASHFUL (REMIXES) (MAR 5)
@@ -35,7 +35,7 @@ GLASS BEACH - ALCHEMIST RATS BEG BASHFUL (REMIXES) (MAR 5)
 !!!XIU XIU - OH NO (MAR 26)
 !!!ARMAND HAMMER + THE ALCHEMIST - HARAM (MAR 26)
 --------------------------------------------------------------
-april:
+APRIL:
 !!!IGLOOGHOST - LEI LINE EON (APR 2)
 VARIOUS ARTISTS - THROUGH THE SOIL (APR 2)
 THE FRATELLIS - DRUNK UNDER A FULL MOON (APRIL 2)
@@ -80,7 +80,7 @@ ROYAL BLOOD - TYPHOONS (APR 30)
 WARISH - NEXT TO PAY (APR 30)
 MYD - BORN A LOSER (APR 30)
 --------------------------------------------------------------
-may:
+MAY:
 !!!WEEZER - VAN WEEZER (MAY 7)
 !!!SQUID - BRIGHT GREEN FIELD (MAY 7)
 !!!JACK INGRAM / MIRANDA LAMBERT / JON RANDALL - THE MARFA TAPES (MAY  7)
@@ -106,12 +106,12 @@ LORD HURON - LONG LOST (MAY 21)
 !!!DAYGLOW - HARMONY HOUSE (MAY 21)
 !!!21 PILOTS - SCALED AND ICY (MAY 21)
 !!!PATRICIA TAXXON - YES, AND (MAY 21)
-REIGNING SOUND - A LITTLE MORE TIME WITH REIGNING SOUND (may 21)
-!!!DAVID JOHN MORRIS - MONASTIC LOVE SONGS (may 21)
+REIGNING SOUND - A LITTLE MORE TIME WITH REIGNING SOUND (MAY 21)
+!!!DAVID JOHN MORRIS - MONASTIC LOVE SONGS (MAY 21)
 !!!ERIKA DE CASIER - SENSATIONAL (MAY 21)
 !!!MACH-HOMMY - PRAY FOR HAITI (MAY 21)
-MUST DIE - CRISIS VISION (may 21)
-VOLA - WITNESS (may 21)
+MUST DIE - CRISIS VISION (MAY 21)
+VOLA - WITNESS (MAY 21)
 CLEWERSON - FUGA (MAY 21)
 YAUTJA - THE LURCH (MAY 21)
 FIDDLEHEAD - BETWEEN THE RICHNESS (MAY 21)
@@ -131,7 +131,7 @@ BLADEE - THE FOOL (MAY 28)
 !!!MEDHANE - AMYTHEST THE MORNING (MAY 28)
 PORTICO QUARTET - TERRAIN
 --------------------------------------------------------------
-june:
+JUNE:
 
 !!!LEFT AT LONDON - TIAPFYH (JUNE 4)
 !!!JAPANESE BREAKFAST - JUBILEE (JUNE 4)
@@ -193,7 +193,7 @@ SKI MASK THE SLUMP GOD - SIN CITY THE MIXTAPE (JUNE 25)
 
 LOONA - [&] (JUNE 28) SUN
 --------------------------------------------------------------
-july:
+JULY:
 !!!THE GO TEAM - GET UP SEQUENCES PART ONE (JULY 2)
 AT THE GATES - THE NIGHTMARE OF BEING (JULY 2)
 BOBBY GILLESPIE & JEHNNY BETH - UTOPIAN ASHES (JULY 2)
@@ -267,7 +267,7 @@ JOHN MAYER - SOB ROCK (JULY 16)
 !!!WILLOW - LATELY I FEEL EVERYTHING (JULY 16)
 CAKES DA KILLA - MUVALAND VOL 2 (JULY 16)
 !!!POP SMOKE - FAITH (JULY 16)
-TONES AND I - WELCOME TO THE MADHOUSE (JULY 16) sat
+TONES AND I - WELCOME TO THE MADHOUSE (JULY 16) SAT
 !!!CHARLI ADAMS - BULLSEYE (JULY 16)
 CHET FAKER - HOTEL SURRENDER (JULY 16)
 ELIZA SHADDAD - THE WOMAN YOU WANT (JULY 16)
@@ -304,7 +304,7 @@ SHINY JOE RYAN - SHINY'S DEMOCRACY (JULY 23)
 RODNEY CROWELL - TRIAGE (JULY 23)
 !!!YES/AND - YES/AND (JULY 23)
 JOEL CULLPEPPER - SGT CULLPEPPER (JULY 23)
-GAVIN TUREK - MADAM GOLD (JULY 23) sat
+GAVIN TUREK - MADAM GOLD (JULY 23) SAT
 !!!PIROSHKA - LOVE DRIPS AND GATHERS (JULY 23)
 !!!QUIET COMMONTION - HALA, KARA FLOD!
 !!!LUCID EXPRESS - LUCID EXPRESS
@@ -317,7 +317,7 @@ DAM FUNK - ABOVE THE FRAY (JULY 30)
 DAVE EAST / HARRY FRAUD - HOFFA (JULY 30)
 DURAND JONES & THE INDICATIONS - PRIVATE SPACE (JULY 30)
 GFOTY - FEMMEDOM (JULY 30)
-HORSEY - DEBONAIR (JULY 30) sat
+HORSEY - DEBONAIR (JULY 30) SAT
 !!!ISAISH RASHAD - THE HOUSE IS BURNING (JULY 30)
 KING WOMAN - CELESTIAL BLUES (JULY 30)
 !!!LANTLOS - WILDHUND (JULY 30)
@@ -336,7 +336,7 @@ PEPPA PIG - PEPPA'S ADVENTURES: THE ALBUM (JULY 30)
 
 LEON CHANG - LEON MODE (JULY 31)
 --------------------------------------------------------------
-august:
+AUGUST:
 ASTRO - SWITCH ON (AUG 2)
 IAMJAKEHILL - DYING LATELY (AUG 2)
 
@@ -370,7 +370,7 @@ TRASH BOAT - DON'T YOU FEEL AMAZING? (AUG 13)
 JADE BIRD - DIFFERENT KINDS OF LIGHT (AUG 13)
 !!!STILL WOOZY - IF THIS ISNT NICE, I DONT KNOW WHAT IS (AUG 13)
 $UICIDEBOY$ - LONG TERM EFFECTS OF SUFFERING (AUG 13)
-DEVENDRA BANHART & NOAH GEORGESON - REFUGE (AUG 13) sat
+DEVENDRA BANHART & NOAH GEORGESON - REFUGE (AUG 13) SAT
 SUZIE UNGERLEIDER - MY NAME IS SUZIE UNGERLEIDER (AUG 13)
 WILLIE NILE - THE DAY THE EARTH STOOD STILL (AUG 13)
 THE KILLERS - PRESSURE MACHINE (AUG 13)
@@ -440,7 +440,7 @@ TOAD THE WET SPROCKET - STARTING NOW (AUG 27)
 CHUBBY AND THE GANG - THE MUTT'S NUTS (AUG 27)
 LEPROUS - APHELION (AUG 27)
 !!!WESTSIDE GUNN - HITLER WEARS HERMES (AUG 27)
-FLUISETTARS - GEGREPEN... (AUG 27) sun
+FLUISETTARS - GEGREPEN... (AUG 27) SUN
 YANN TIERSEN - KERBER (AUG 27)
 !!!TURNSTILE - GLOW ON (AUG 27)
 HAIKU SALUT - THE HILL, THE LIGHT, THE GHOST (AUG 27)
@@ -455,7 +455,7 @@ BENDIK GISKE - CRACKS (AUG 27)
 !!!BIG RED MACHINE - HOW LONG DO YOU THINK IT'S GONNA LAST (AUG 27)
 !!!KANYE WEST - DONDA (AUG 27)
 --------------------------------------------------------------
-september:
+SEPTEMBER:
 SARD UNDERGROUND - ORANGE IRO NI KANPAI (SEP 1)
 
 FS BLUMM / NILS FRAHM - 2X1=4 (SEP 3)
@@ -466,99 +466,211 @@ THE WILDHEARTS - 21ST CENTURY LOVE SONGS (SEP 3)
 JHAY CORTEZ - TIMELEZZ (SEP 3)
 !!!DRAKE - CERTIFIED LOVER BOY (SEP 3)
 IRON MAIDEN - SENJUTSU (SEP 3)
-LADY GAGA - DAWN OF CHROMATICA - THE REMIX ALBUM (SEP 3) 
-LANY - GN BB XX (SEP 3) fri
+LADY GAGA - DAWN OF CHROMATICA - THE REMIX ALBUM (SEP 3)
+LANY - GN BB XX (SEP 3) FRI
 !!!L'ORANGE - THE WORLD IS STILL CHAOS, BUT I FEEL BETTER (SEP 3)
 LAWRENCE ENGLISH - A MIRROR HOLDS THE SKY (SEP 3)
 !!!LAUREN ALAINA - SITTING PRETTY ON TOP OF THE WORLD (SEP 3)
 !!!MOTORISTS - SURROUNDED (SEP 3)
 SUUNS - THE WITNESS (SEP 3)
 CARNIFEX - GRAVESIDE CONFESSIONS (SEP 3)
-CLAIRE LAFFUT - BLEU (SEP 3) sat
+CLAIRE LAFFUT - BLEU (SEP 3)
 
-low - hey what (sep 10)
-park hye jin - before i die (sep 10)
-amyl and the sniffers - comfort to me (sep 10)
-andrew wk - god is partying (sep 10)
-colleen green - cool (sep 10)
-drapht - shadows and shinings (sep 10)
-samantha fish - faster (sep 10)
-sneaker pimps - squaring the circle (sep 10)
-steps - what the future holds pt 2 (sep 10)
-the stranglers - dark matters (sep 10)
-the vaccines - back in love city (sep 10)
-kacey musgraves - star crossed (sep 10)
-diana ross - thank you (sep 10)
-geoffrey gurrumul yunupingu - the gurrumul story (sep 10)
-lisa - lalisa (sep 10)
-westside gunn - hitler wears hermes 8: sincerely adolf side b (sep 10)
-lawrence english - observation of breath (sep 10)
+LOW - HEY WHAT (SEP 10) WED
+PARK HYE JIN - BEFORE I DIE (SEP 10) FRI
+AMYL AND THE SNIFFERS - COMFORT TO ME (SEP 10) fri
+ANDREW WK - GOD IS PARTYING (SEP 10)
+COLLEEN GREEN - COOL (SEP 10)
+DRAPHT - SHADOWS AND SHININGS (SEP 10)
+SAMANTHA FISH - FASTER (SEP 10)
+SNEAKER PIMPS - SQUARING THE CIRCLE (SEP 10)
+STEPS - WHAT THE FUTURE HOLDS PT 2 (SEP 10)
+THE STRANGLERS - DARK MATTERS (SEP 10)
+THE VACCINES - BACK IN LOVE CITY (SEP 10)
+!!!KACEY MUSGRAVES - STAR CROSSED (SEP 10)
+GEOFFREY GURRUMUL YUNUPINGU - THE GURRUMUL STORY (SEP 10)
+LAWRENCE ENGLISH - OBSERVATION OF BREATH (SEP 10) wed
+DEB NEVER - WHERE HAVE ALL THE FLOWERS GONE? (SEP 10)
+J BALVIN - JOSE (SEP 10)
+HOMESHAKE - UNDER THE WEATHER (SEP 10)
+JULIA BARDO - BAUHAUS, L'APPARTAMENTO (SEP 10) SAT
+BABY KEEM - THE MELODIC BLUE (SEP 10) THUR
+YEBBA - DAWN (SEP 10)
+!!!SAINT ENTIENNE - I'VE BEEN TRYING TO TELL YOU (SEP 10) 
 
 playboi cart - narcissist (sep 13)
 
-injury reserve - by the time i get to phoenix (sep 15)
 cancer bats - you'll never break us (sep 15)
+injury reserve - by the time i get to phoenix (sep 15)
 
 alien weaponry - tangaroa (sep 17)
+adia victoria - a southern gothic (sep 17)
 candlebox - wolves (sep 17)
 carcass - torn arteries (sep 17)
 charlotte wessels - tales from six feet under (sep 17)
 cynthia ervio - ch. 1 vs 1 (sep 17)
 don bronco - amazing things (sep 17)
 jose gonzales - local valley (sep 17)
+james vincent mcmorrow - grapefruit season (sep 17)
 lindsey buckingham - lindsey buckingham (sep 17)
+lil nas x - montero (sep 17)
+mild high club - going going gone (sep 17)
+moor mother - black encyclopedia of the air (sep 17)
+mono - pilgrimage of the soul (sep 17)
+time for dreams - life of the inhabitant (sep 17)
+ray blk - access denied (sep 17)
+rp boo - established! (sep 17)
 scotty mccreery - same truck (sep 17)
 spiritbox - eternal blue (sep 17)
-lil nas x - montero (sep 17)
-moor mother - black encyclopedia of the air (sep 17)
-jose gonzales - local valley (sep 17)
-mild high club - going going gone
+thrice - horizons/east (sep 17)
 
-sufjan stevens/angelo de augustin - a beginner's mind (sep 21)
+shackleton - departing like rivers (sep 21)
 
 japanese breakfast - sable (sep 23)
 
-boys noise - +/- (sept 24)
-super chunk - the sound of yourself (sept 24)
+99 neighbors - wherever youre going i hope its great (sep 24)
 alessia cara - in the meantime (sep 24)
+ashley shadow - only the end (sep 24)
+blue - the color blu(e) {sep 24}
+the body & big brave - leaving none but small birds (sep 24)
+boys noise - +/- (sept 24)
+caleb landry james - gadzooks vol 1 (sep 24)
+clarence clarity - vanishing act 1: no nouns (sep 24)
 esperanza spalding - songwrights apothecary lab (sep 24)
 joey purp - uplate (sep 24)
+the lathums - how beautiful life can be (sep 24)
+macie stewert - mouth full of glass (sep 24)
+mac mccaughan - the sound of yourself (sep 24)
+natalie imbruglia - firebird (sep 24)
 nao - and then life was beautiful (sep 24)
+pop 1280 - museum on the horizon (sep 24)
 poppy - flux (sep 24)
+super chunk - the sound of yourself (sept 24)
+sufjan stevens/angelo de augustin - a beginner's mind (sep 24)
+
+little big and oliver tree - welcome to the internet (sep 24)
 --------------------------------------------------------------
 october:
-illuminati hotties - let me do one more (oct 1)
+asking alexandria - see what's on the inside (oct 1)
+boy scouts - wayfinder (oct 1)
 brandy carlile - in these silent days (oct 1)
+black dice - mod prog sic (oct 1)
+the doobie brothers - liberte (oct 1)
+full of hell - garden of burning apparitions (oct 1)
+frontierer - oxidized (oct 1)
+hovvdy - true love (oct 1)
+illuminati hotties - let me do one more (oct 1)
+jojo - trying not to think about it (oct 1)
+kit sebastian - melodi (oct 1)
+kedr livansky - liminal soul (oct 1)
+kraus - view no country (oct 1)
+lady gaga / tony bennett - love for sale (oct 1)
+lone - always inside your head (oct 1)
+ministry - royal hygeine (oct 1)
+pond - 9 (oct 1)
+strand of oaks - in heaven (oct 1)
+tirzah - colourgrade (oct 1)
+the the - the comeback special (oct 1)
+wage war - manic (oct 1)
 wiki - half god (oct 1)
+yes - the quest (oct 1)
 
+atmosphere - word? (oct 8)
+badbadnotgood - talk memory (oct 8)
+billy bragg - things that never happened (oct 8)
+devin townsend - the puzzle (oct 8)
+devin townsend - snuggles (oct 8)
+efterklang - windflowers (oct 8)
+james arthur - it'll all make sense in the end (oct 8)
+james blake - friends that break your heart (oct 8)
+kowloon walled city - piecework (oct 8)
+ladyhawke - time flies (oct 8)
+lala lala - i want the door to open (oct 8)
+lp - churches (oct 8)
+magdalena bay - mercurial world (oct 8)
+Natalie Hemby - Pins And Needles (oct 8)
+old dominion - time, tequila, and therapy (oct 8)
 porches - all day gentle hold! (oct 8)
+sam fender - seventeen going under (oct 8)
+shannon lay - geist (oct 8)
+trivium - in the court of the dragon (oct 8)
 the world is a beautiful place and i am no longer afraid to die - illusory walls (oct 8)
 wh lung - vanities (oct 8)
-james blake - friends that break your heart (oct 8)
 
-pond - 9 (oct 10)
-
+baker boy - gela (oct 15)
+bedouine - waysides (oct 15)
+the charlatans - a head full of ideas (oct 15)
 coldplay - music of the spheres (oct 15)
+dark mark vs skeleton joe - dark mark vs skeleton jones (oct 15)
+the darkness - motorheart (oct 15)
+finneas - optimist (oct 15)
+frank carter and the rattlensnakes (oct 15)
+gemini syndrome - 3rd degree the raising (oct 15)
+hate - rugia (oct 15)
+hayden thorpe - moondust for my diamond (oct 15)
+ice nine kills - the silver scream 2: welcome to horrorwood (oct 15)
+joy crookes - skin (oct 15)
 remi wolf - juno (oct 15)
+santana - blessings and miracles (oct 15)
+tom morello -	the atlas underground fire (oct 15)
+xenia rubinos -	una rosa (oct 15)
+young thug - punk (oct 15)
 
+angel dust - yak: a collection of truck songs (oct 22)
+biffy clyro - the myth of the happily ever after (oct 22)
+black marble - fast idol (oct 22)
+bullet for my valentine -	bullet for my valentine (oct 22)
+circuit des yeux - -io (oct 22)
+cradle of filth - existence is futile (oct 22)
 deerhoof - actually, you can (oct 22)
-la luz - la luz (oct 22)
-parquet courts - a sympath for life (oct 22)
-grouper - shade (oct 22)
+dream theater - a view from the top of the world (oct 22)
+don broco - amazing things (oct 22)
+duran duran - future past (oct 22)
 elton john - the lockdown sessions (oct 22)
+every time i die - radical (oct 22)
+grouper - shade (oct 22)
+hand habits - fun house (oct 22)
+helado negro - far in (oct 22)
+herbert - musca (oct 22)
+honne - let's just say the world ended a week from now, what would you do? (oct 22)
+la luz - la luz (oct 22)
 lana del rey - blue banisters (oct 22)
+lone - always inside your head (oct 22)
+ms banks - bank statement (oct 22)
+my morning jacket - my morning jacket (oct 22)
+parquet courts - sympathy for life (oct 22)
+phew - new decade (oct 22)
+slow crush - hush (oct 22)
+starset - horizons (oct 22)
+trace mountains - house of confusion (oct 22)
+tricky - lonely guest (oct 22)
+u.d.o. - game over (oct 22)
+wet - letter blue (oct 22)
 
-the war on drugs - i don't live here anymore (oct 29)
+bad wolves - dear monsters (oct 29)
+black veil brides - the phantom tomorrow (oct 29)
+ed sheeran - = (oct 29)
+geese - projector (oct 29)
+jerry cantrell - brighten (oct 29)
+kyary pamyu pamyu - candy racer (oct 29)
+lily konigsberg - lily we need to talk now (oct 29)
+lotic - water (oct 29)
+mastodon - hushed and grim (oct 29)
 melissa nadler - bessie, did you make it? (oct 29)
+running wild - blood on blood (oct 29)
+save face - another kill for the highlight reel (oct 29)
+they might be giants - book (oct 29)
+the war on drugs - i don't live here anymore (oct 29)
+whitechapel - kin (oct 29)
 --------------------------------------------------------------
 november:
+abba - voyage (nov 5)
 munya - voyage to mars (nov 5)
 portrayal of guilt - christfucker (nov 5)
-abba - voyage (nov 5)
 
 courney barnett - things take time, take time (nov 12)
-irreversible entanglements - open the gates (nov 12)
 damon albarn - the nearer the fountain, more pure the stream flows (nov 12)
+irreversible entanglements - open the gates (nov 12)
 john hopkins - music for psychedelic therapy (nov 12)
 
 taylor swift - red (taylor's version) {nov 19}
