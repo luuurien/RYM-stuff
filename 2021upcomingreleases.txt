@@ -476,7 +476,7 @@ SUUNS - THE WITNESS (SEP 3)
 CARNIFEX - GRAVESIDE CONFESSIONS (SEP 3)
 CLAIRE LAFFUT - BLEU (SEP 3)
 
-LOW - HEY WHAT (SEP 10) WED
+!!!LOW - HEY WHAT (SEP 10)
 PARK HYE JIN - BEFORE I DIE (SEP 10) FRI
 AMYL AND THE SNIFFERS - COMFORT TO ME (SEP 10) fri
 ANDREW WK - GOD IS PARTYING (SEP 10)
@@ -489,19 +489,17 @@ THE STRANGLERS - DARK MATTERS (SEP 10)
 THE VACCINES - BACK IN LOVE CITY (SEP 10)
 !!!KACEY MUSGRAVES - STAR CROSSED (SEP 10)
 GEOFFREY GURRUMUL YUNUPINGU - THE GURRUMUL STORY (SEP 10)
-LAWRENCE ENGLISH - OBSERVATION OF BREATH (SEP 10) wed
+LAWRENCE ENGLISH - OBSERVATION OF BREATH (SEP 10)
 DEB NEVER - WHERE HAVE ALL THE FLOWERS GONE? (SEP 10)
 J BALVIN - JOSE (SEP 10)
 HOMESHAKE - UNDER THE WEATHER (SEP 10)
 JULIA BARDO - BAUHAUS, L'APPARTAMENTO (SEP 10) SAT
 BABY KEEM - THE MELODIC BLUE (SEP 10) THUR
 YEBBA - DAWN (SEP 10)
-!!!SAINT ENTIENNE - I'VE BEEN TRYING TO TELL YOU (SEP 10) 
+!!!SAINT ENTIENNE - I'VE BEEN TRYING TO TELL YOU (SEP 10)
 
-playboi cart - narcissist (sep 13)
-
-cancer bats - you'll never break us (sep 15)
-injury reserve - by the time i get to phoenix (sep 15)
+CANCER BATS - YOU'LL NEVER BREAK US (SEP 15)
+INJURY RESERVE - BY THE TIME I GET TO PHOENIX (SEP 15) mon
 
 alien weaponry - tangaroa (sep 17)
 adia victoria - a southern gothic (sep 17)
@@ -667,6 +665,7 @@ november:
 abba - voyage (nov 5)
 munya - voyage to mars (nov 5)
 portrayal of guilt - christfucker (nov 5)
+snail mail - valentine (nov 5)
 
 courney barnett - things take time, take time (nov 12)
 damon albarn - the nearer the fountain, more pure the stream flows (nov 12)

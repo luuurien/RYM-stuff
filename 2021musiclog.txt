@@ -1,4 +1,4 @@
-album count: 214
+album count: 215
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -95,7 +95,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 76
+7 / 10: 77
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 beatriz ferreyra - canto+
@@ -136,6 +136,7 @@ left at london - t.i.a.p.f.y.h.
 logic - bobby tarantino iii
 loraine james - reflection
 l'orange - the world is still chaos, but i feel better
+low - hey what
 mariah the scientist - ry ry world
 marisa anderson / william tyler - lost futures
 mdou moctar - afrique victime
