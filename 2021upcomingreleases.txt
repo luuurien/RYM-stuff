@@ -467,7 +467,7 @@ JHAY CORTEZ - TIMELEZZ (SEP 3)
 !!!DRAKE - CERTIFIED LOVER BOY (SEP 3)
 IRON MAIDEN - SENJUTSU (SEP 3)
 LADY GAGA - DAWN OF CHROMATICA - THE REMIX ALBUM (SEP 3)
-LANY - GN BB XX (SEP 3) FRI
+LANY - GN BB XX (SEP 3)
 !!!L'ORANGE - THE WORLD IS STILL CHAOS, BUT I FEEL BETTER (SEP 3)
 LAWRENCE ENGLISH - A MIRROR HOLDS THE SKY (SEP 3)
 !!!LAUREN ALAINA - SITTING PRETTY ON TOP OF THE WORLD (SEP 3)
@@ -477,8 +477,8 @@ CARNIFEX - GRAVESIDE CONFESSIONS (SEP 3)
 CLAIRE LAFFUT - BLEU (SEP 3)
 
 !!!LOW - HEY WHAT (SEP 10)
-PARK HYE JIN - BEFORE I DIE (SEP 10) FRI
-AMYL AND THE SNIFFERS - COMFORT TO ME (SEP 10) fri
+!!!PARK HYE JIN - BEFORE I DIE (SEP 10) 
+AMYL AND THE SNIFFERS - COMFORT TO ME (SEP 10) sun
 ANDREW WK - GOD IS PARTYING (SEP 10)
 COLLEEN GREEN - COOL (SEP 10)
 DRAPHT - SHADOWS AND SHININGS (SEP 10)
@@ -494,33 +494,51 @@ DEB NEVER - WHERE HAVE ALL THE FLOWERS GONE? (SEP 10)
 J BALVIN - JOSE (SEP 10)
 HOMESHAKE - UNDER THE WEATHER (SEP 10)
 JULIA BARDO - BAUHAUS, L'APPARTAMENTO (SEP 10) SAT
-BABY KEEM - THE MELODIC BLUE (SEP 10) THUR
+BABY KEEM - THE MELODIC BLUE (SEP 10)
 YEBBA - DAWN (SEP 10)
 !!!SAINT ENTIENNE - I'VE BEEN TRYING TO TELL YOU (SEP 10)
 
-CANCER BATS - YOU'LL NEVER BREAK US (SEP 15)
 INJURY RESERVE - BY THE TIME I GET TO PHOENIX (SEP 15) mon
 
-alien weaponry - tangaroa (sep 17)
-adia victoria - a southern gothic (sep 17)
-candlebox - wolves (sep 17)
-carcass - torn arteries (sep 17)
-charlotte wessels - tales from six feet under (sep 17)
-cynthia ervio - ch. 1 vs 1 (sep 17)
-don bronco - amazing things (sep 17)
-jose gonzales - local valley (sep 17)
-james vincent mcmorrow - grapefruit season (sep 17)
-lindsey buckingham - lindsey buckingham (sep 17)
-lil nas x - montero (sep 17)
-mild high club - going going gone (sep 17)
-moor mother - black encyclopedia of the air (sep 17)
-mono - pilgrimage of the soul (sep 17)
-time for dreams - life of the inhabitant (sep 17)
-ray blk - access denied (sep 17)
-rp boo - established! (sep 17)
-scotty mccreery - same truck (sep 17)
-spiritbox - eternal blue (sep 17)
-thrice - horizons/east (sep 17)
+溶けない名前 [TOKENAINAMAE] -タイムマシンが壊れる前に tues
+ALEXA ROSE - HEADWATERS (SEP 17)
+ALEXIS TAYLOR - SILENCE (SEP 17)
+ALIEN WEAPONRY - TANGAROA (SEP 17)
+ADIA VICTORIA - A SOUTHERN GOTHIC (SEP 17) mon
+BETCOVER!! - 時間 (SEP 17) fri
+BIG FREEDIA - BDE (SEP 17)
+BLUNT BANGS - PROPER SMOKER (SEP 17)
+CANDLEBOX - WOLVES (SEP 17)
+CARCASS - TORN ARTERIES (SEP 17)
+CHARLOTTE WESSELS - TALES FROM SIX FEET UNDER (SEP 17)
+COLD BEAT - WAR GARDEN (SEP 17)
+CYNTHIA ERVIO - CH. 1 VS 1 (SEP 17)
+DON BRONCO - AMAZING THINGS (SEP 17)
+EIDOLA - THE ARCHITECT (SEP 17) wed
+EMPLOYED TO SERVE - CONQUERING (SEP 17)
+THE FELICE BROTHERS - FROM DREAMS TO DUST (SEP 17)
+JAMES VINCENT MCMORROW - GRAPEFRUIT SEASON (SEP 17)
+JOSE GONZALES - LOCAL VALLEY (SEP 17)
+JORDAN RAKEI - WHAT WE CALL LIFE
+LINDSEY BUCKINGHAM - LINDSEY BUCKINGHAM (SEP 17)
+LIL NAS X - MONTERO (SEP 17) wed
+LOWERTOWN - THE GAPING MOUTH EP (SEP 17) fri
+MERIDIAN BROTHERS / CONJUNTO MEDIA LUNA - PAZ EN LA TIERRA (SEP 17)
+MILD HIGH CLUB - GOING GOING GONE (SEP 17) tues
+MINI TREES - ALWAYS IN MOTION (SEP 17) sat
+MOOR MOTHER - BLACK ENCYCLOPEDIA OF THE AIR (SEP 17) thur
+MONO - PILGRIMAGE OF THE SOUL (SEP 17)
+NALA SINEPHRO - SPACE 1.8 thur
+OSQUINN - DRIVE BY LULLABIES (SEP 17)
+TIME FOR DREAMS - LIFE OF THE INHABITANT (SEP 17)
+RAY BLK - ACCESS DENIED (SEP 17)
+RP BOO - ESTABLISHED! (SEP 17)
+SCOTTY MCCREERY - SAME TRUCK (SEP 17)
+SMOKE BELLOW - OPEN FOR BUSINESS (SEP 17)
+SPIRITBOX - ETERNAL BLUE (SEP 17)
+THRICE - HORIZONS/EAST (SEP 17)
+YVETTE - HOW THE GARDEN GROWS (SEP 17)
+ZILLAKAMI - DOGBOY (SEP 17)
 
 shackleton - departing like rivers (sep 21)
 
@@ -644,6 +662,8 @@ trace mountains - house of confusion (oct 22)
 tricky - lonely guest (oct 22)
 u.d.o. - game over (oct 22)
 wet - letter blue (oct 22)
+
+namasenda - unlimited ammo (oct 28)
 
 bad wolves - dear monsters (oct 29)
 black veil brides - the phantom tomorrow (oct 29)
