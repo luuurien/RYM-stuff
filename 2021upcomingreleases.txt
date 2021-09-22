@@ -524,7 +524,7 @@ LINDSEY BUCKINGHAM - LINDSEY BUCKINGHAM (SEP 17)
 LIL NAS X - MONTERO (SEP 17) wed
 LOWERTOWN - THE GAPING MOUTH EP (SEP 17) fri
 MERIDIAN BROTHERS / CONJUNTO MEDIA LUNA - PAZ EN LA TIERRA (SEP 17)
-MILD HIGH CLUB - GOING GOING GONE (SEP 17) tues
+!!!MILD HIGH CLUB - GOING GOING GONE (SEP 17)
 MINI TREES - ALWAYS IN MOTION (SEP 17) sat
 MOOR MOTHER - BLACK ENCYCLOPEDIA OF THE AIR (SEP 17) thur
 MONO - PILGRIMAGE OF THE SOUL (SEP 17)
@@ -538,6 +538,7 @@ SPIRITBOX - ETERNAL BLUE (SEP 17)
 THRICE - HORIZONS/EAST (SEP 17)
 YVETTE - HOW THE GARDEN GROWS (SEP 17)
 ZILLAKAMI - DOGBOY (SEP 17)
+
 nala sinephro - space 1.8 thur
 floating points / pharoah sanders - promises sat
 lost girls - menneskekollektivet sun
@@ -613,7 +614,7 @@ ladyhawke - time flies (oct 8)
 lala lala - i want the door to open (oct 8)
 lp - churches (oct 8)
 magdalena bay - mercurial world (oct 8)
-Natalie Hemby - Pins And Needles (oct 8)
+natalie hemby - pins and needles (oct 8)
 old dominion - time, tequila, and therapy (oct 8)
 porches - all day gentle hold! (oct 8)
 sam fender - seventeen going under (oct 8)
