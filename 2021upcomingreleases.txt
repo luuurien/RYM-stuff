@@ -505,7 +505,7 @@ ALEXA ROSE - HEADWATERS (SEP 17)
 ALEXIS TAYLOR - SILENCE (SEP 17)
 ALIEN WEAPONRY - TANGAROA (SEP 17)
 !!!ADIA VICTORIA - A SOUTHERN GOTHIC (SEP 17)
-BETCOVER!! - 時間 (SEP 17) fri
+BETCOVER!! - 時間 (SEP 17)
 BIG FREEDIA - BDE (SEP 17)
 BLUNT BANGS - PROPER SMOKER (SEP 17)
 CANDLEBOX - WOLVES (SEP 17)
@@ -518,20 +518,20 @@ DON BRONCO - AMAZING THINGS (SEP 17)
 EMPLOYED TO SERVE - CONQUERING (SEP 17)
 THE FELICE BROTHERS - FROM DREAMS TO DUST (SEP 17)
 JAMES VINCENT MCMORROW - GRAPEFRUIT SEASON (SEP 17)
-JOSE GONZALES - LOCAL VALLEY (SEP 17) sat
+JOSE GONZALES - LOCAL VALLEY (SEP 17)
 JORDAN RAKEI - WHAT WE CALL LIFE
 LINDSEY BUCKINGHAM - LINDSEY BUCKINGHAM (SEP 17)
 !!!LIL NAS X - MONTERO (SEP 17)
-LOWERTOWN - THE GAPING MOUTH EP (SEP 17) fri
+LOWERTOWN - THE GAPING MOUTH EP (SEP 17)
 MERIDIAN BROTHERS / CONJUNTO MEDIA LUNA - PAZ EN LA TIERRA (SEP 17)
 !!!MILD HIGH CLUB - GOING GOING GONE (SEP 17)
-MINI TREES - ALWAYS IN MOTION (SEP 17) sat
+MINI TREES - ALWAYS IN MOTION (SEP 17)
 MOOR MOTHER - BLACK ENCYCLOPEDIA OF THE AIR (SEP 17)
 MONO - PILGRIMAGE OF THE SOUL (SEP 17)
 OSQUINN - DRIVE BY LULLABIES (SEP 17)
 TIME FOR DREAMS - LIFE OF THE INHABITANT (SEP 17)
 RAY BLK - ACCESS DENIED (SEP 17)
-RP BOO - ESTABLISHED! (SEP 17) sun
+RP BOO - ESTABLISHED! (SEP 17)
 SCOTTY MCCREERY - SAME TRUCK (SEP 17)
 SMOKE BELLOW - OPEN FOR BUSINESS (SEP 17)
 SPIRITBOX - ETERNAL BLUE (SEP 17)
@@ -540,8 +540,8 @@ YVETTE - HOW THE GARDEN GROWS (SEP 17)
 ZILLAKAMI - DOGBOY (SEP 17)
 
 !!!nala sinephro - space 1.8
-floating points / pharoah sanders - promises sat
-lost girls - menneskekollektivet sun
+!!!floating points / pharoah sanders - promises
+!!!lost girls - menneskekollektivet
 
 SHACKLETON - DEPARTING LIKE RIVERS (SEP 21)
 
@@ -559,14 +559,12 @@ BLUE - THE COLOR BLU(E) {SEP 24}
 THE BODY & BIG BRAVE - LEAVING NONE BUT SMALL BIRDS (SEP 24)
 BOYS NOISE - +/- (SEPT 24)
 CALEB LANDRY JAMES - GADZOOKS VOL 1 (SEP 24)
-CLARENCE CLARITY - VANISHING ACT 1: NO NOUNS (SEP 24)
-ESPERANZA SPALDING - SONGWRIGHTS APOTHECARY LAB (SEP 24)
+CLARENCE CLARITY - VANISHING ACT 1: NO NOUNS (SEP 24) fri
+ESPERANZA SPALDING - SONGWRIGHTS APOTHECARY LAB (SEP 24) mon
 ETHERWOOD - NEON DUST (SEP 24)
 JESSE MALIN - SAD AND BEAUTIFUL WORLD (SEP 24)
-JOEY PURP - UPLATE (SEP 24)
 THE LATHUMS - HOW BEAUTIFUL LIFE CAN BE (SEP 24)
 MACIE STEWERT - MOUTH FULL OF GLASS (SEP 24)
-MAC MCCAUGHAN - THE SOUND OF YOURSELF (SEP 24)
 MAS AYA - MÁSCARAS (SEP 24)
 MAURICE LOUCA - SAET EL HAZZ (SEP 24)
 MICKEY GUYTON - REMEMBER HER NAME (SEP 24)
@@ -575,7 +573,7 @@ NAO - AND THEN LIFE WAS BEAUTIFUL (SEP 24)
 NATIVE SOUL - TEENAGE DREAMS (SEP 24)
 ONE STEP CLOSER - THIS PLACE YOU KNOW (SEP 24)
 POP 1280 - MUSEUM ON THE HORIZON (SEP 24)
-POPPY - FLUX (SEP 24)
+POPPY - FLUX (SEP 24) wed
 PROC FISKAL - SIREN SPINE SYSEX (SEP 24)
 PUBLIC BROADCASTING SERVICE - BRIGHT MAGIC (SEP 24)
 RIVERS OF NIHIL - THE WORK (SEP 24)
@@ -584,17 +582,21 @@ SKEPTICISM - COMPANION (SEP 24)
 SLEEP TOKEN - THIS PLACE WILL BECOME YOUR TOMB (SEP 24)
 SUCCUMB - XXI (SEP 24)
 SUPER CHUNK - THE SOUND OF YOURSELF (SEPT 24)
-SUFJAN STEVENS/ANGELO DE AUGUSTIN - A BEGINNER'S MIND (SEP 24)
+SUFJAN STEVENS/ANGELO DE AUGUSTIN - A BEGINNER'S MIND (SEP 24) tues
 UNTO OTHERS - STRENGTH (SEP 24)
-WESTSIDE GUNN - HITLER WEARS HERMES 8 PART 2 (SEP 24)
+WESTSIDE GUNN - HITLER WEARS HERMES 8 PART 2 (SEP 24) thur
 
 the armed - ultrapop sat
 mckinley dixon - for my mama and anyone who look like her sun
 cassandra jenkin - an overview on phenomenal nature sat
 vijay iyer / linda may han oh / tyshawn sorey - uneasy sun
 ka - a martyr's reward fri
+wild up - julius eastman vol. 1: femenine tues
+navy blue - navy's reprise mon
 
-little big and oliver tree - welcome to the internet (sep 24)
+LITTLE BIG AND OLIVER TREE - WELCOME TO THE INTERNET (SEP 24)
+
+QUIET COMMOTION - STATIC FROM TERRIBLE STORM (SEP 27) wed
 --------------------------------------------------------------
 october:
 asking alexandria - see what's on the inside (oct 1)
@@ -656,6 +658,7 @@ hate - rugia (oct 15)
 hayden thorpe - moondust for my diamond (oct 15)
 ice nine kills - the silver scream 2: welcome to horrorwood (oct 15)
 joy crookes - skin (oct 15)
+kacy hill - simple, sweet, and smiling (oct 15)
 remi wolf - juno (oct 15)
 santana - blessings and miracles (oct 15)
 tom morello -	the atlas underground fire (oct 15)
@@ -704,7 +707,7 @@ kyary pamyu pamyu - candy racer (oct 29)
 lily konigsberg - lily we need to talk now (oct 29)
 lotic - water (oct 29)
 mastodon - hushed and grim (oct 29)
-melissa nadler - bessie, did you make it? (oct 29)
+melissa nadler - the path of the clouds (oct 29)
 running wild - blood on blood (oct 29)
 save face - another kill for the highlight reel (oct 29)
 they might be giants - book (oct 29)
