@@ -191,7 +191,7 @@ SKI MASK THE SLUMP GOD - SIN CITY THE MIXTAPE (JUNE 25)
 !!!CAUTIOUS CLAY - DEADPAN LOVE (JUNE 25)
 !!!SAULT - NINE (JUNE 25)
 
-LOONA - [&] (JUNE 28) SUN
+LOONA - [&] (JUNE 28)
 --------------------------------------------------------------
 JULY:
 !!!THE GO TEAM - GET UP SEQUENCES PART ONE (JULY 2)
@@ -440,7 +440,7 @@ TOAD THE WET SPROCKET - STARTING NOW (AUG 27)
 CHUBBY AND THE GANG - THE MUTT'S NUTS (AUG 27)
 LEPROUS - APHELION (AUG 27)
 !!!WESTSIDE GUNN - HITLER WEARS HERMES (AUG 27)
-FLUISETTARS - GEGREPEN... (AUG 27) SUN
+FLUISETTARS - GEGREPEN... (AUG 27)
 YANN TIERSEN - KERBER (AUG 27)
 !!!TURNSTILE - GLOW ON (AUG 27)
 HAIKU SALUT - THE HILL, THE LIGHT, THE GHOST (AUG 27)
@@ -558,9 +558,9 @@ BESS ATWELL - ALREADY, ALWAYS (SEP 24)
 BLUE - THE COLOR BLU(E) {SEP 24}
 THE BODY & BIG BRAVE - LEAVING NONE BUT SMALL BIRDS (SEP 24)
 BOYS NOISE - +/- (SEPT 24)
-CALEB LANDRY JAMES - GADZOOKS VOL 1 (SEP 24)
+CALEB LANDRY JAMES - GADZOOKS VOL 1 (SEP 24) thur
 CLARENCE CLARITY - VANISHING ACT 1: NO NOUNS (SEP 24) fri
-ESPERANZA SPALDING - SONGWRIGHTS APOTHECARY LAB (SEP 24) mon
+!!!ESPERANZA SPALDING - SONGWRIGHTS APOTHECARY LAB (SEP 24)
 ETHERWOOD - NEON DUST (SEP 24)
 JESSE MALIN - SAD AND BEAUTIFUL WORLD (SEP 24)
 THE LATHUMS - HOW BEAUTIFUL LIFE CAN BE (SEP 24)
@@ -582,7 +582,7 @@ SKEPTICISM - COMPANION (SEP 24)
 SLEEP TOKEN - THIS PLACE WILL BECOME YOUR TOMB (SEP 24)
 SUCCUMB - XXI (SEP 24)
 SUPER CHUNK - THE SOUND OF YOURSELF (SEPT 24)
-SUFJAN STEVENS/ANGELO DE AUGUSTIN - A BEGINNER'S MIND (SEP 24) tues
+!!!SUFJAN STEVENS/ANGELO DE AUGUSTIN - A BEGINNER'S MIND (SEP 24)
 UNTO OTHERS - STRENGTH (SEP 24)
 WESTSIDE GUNN - HITLER WEARS HERMES 8 PART 2 (SEP 24) thur
 
@@ -591,12 +591,12 @@ mckinley dixon - for my mama and anyone who look like her sun
 cassandra jenkin - an overview on phenomenal nature sat
 vijay iyer / linda may han oh / tyshawn sorey - uneasy sun
 ka - a martyr's reward fri
-wild up - julius eastman vol. 1: femenine tues
-navy blue - navy's reprise mon
+wild up - julius eastman vol. 1: femenine wed
+!!!navy blue - navy's reprise
 
 LITTLE BIG AND OLIVER TREE - WELCOME TO THE INTERNET (SEP 24)
 
-QUIET COMMOTION - STATIC FROM TERRIBLE STORM (SEP 27) wed
+!!!QUIET COMMOTION - STATIC FROM TERRIBLE STORM (SEP 27)
 --------------------------------------------------------------
 october:
 asking alexandria - see what's on the inside (oct 1)
@@ -623,6 +623,7 @@ wage war - manic (oct 1)
 wiki - half god (oct 1)
 yes - the quest (oct 1)
 
+the alchemist - this thing of ours, vol 2 (oct 8)
 atmosphere - word? (oct 8)
 badbadnotgood - talk memory (oct 8)
 billy bragg - things that never happened (oct 8)
@@ -644,6 +645,8 @@ shannon lay - geist (oct 8)
 trivium - in the court of the dragon (oct 8)
 the world is a beautiful place and i am no longer afraid to die - illusory walls (oct 8)
 wh lung - vanities (oct 8)
+
+sungazer - perihelion (oct 11)
 
 baker boy - gela (oct 15)
 bedouine - waysides (oct 15)
@@ -723,7 +726,9 @@ snail mail - valentine (nov 5)
 
 courney barnett - things take time, take time (nov 12)
 damon albarn - the nearer the fountain, more pure the stream flows (nov 12)
+idles - crawler (nov 12)
 irreversible entanglements - open the gates (nov 12)
 john hopkins - music for psychedelic therapy (nov 12)
 
+converge / chelsea wolf - bloodmoon: i (nov 19)
 taylor swift - red (taylor's version) {nov 19}
