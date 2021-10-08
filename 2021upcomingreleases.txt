@@ -598,18 +598,18 @@ ASKING ALEXANDRIA - SEE WHAT'S ON THE INSIDE (OCT 1)
 AUDIOBOOKS - ASTRO TOUGH (OCT 1)
 BLACK DICE - MOD PROG SIC (OCT 1)
 BOY SCOUTS - WAYFINDER (OCT 1)
-BRANDY CARLILE - IN THESE SILENT DAYS (OCT 1) thur
+!!!BRANDY CARLILE - IN THESE SILENT DAYS (OCT 1)
 THE DOOBIE BROTHERS - LIBERTE (OCT 1)
 DUCKS LTD - MODERN FICTION (OCT 1) fri
 FULL OF HELL - GARDEN OF BURNING APPARITIONS (OCT 1)
-FRONTIERER - OXIDIZED (OCT 1) fri/mon
+FRONTIERER - OXIDIZED (OCT 1) mon
 HEADIE ONE - TOO LOYAL FOR MY OWN GOOD (OCT 1)
 HOVVDY - TRUE LOVE (OCT 1)
 !!!ILLUMINATI HOTTIES - LET ME DO ONE MORE (OCT 1)
 JOJO - TRYING NOT TO THINK ABOUT IT (OCT 1)
 JUÇARA MARÇAL - DELTA ESTÁCIO BLUES (OCT 1) fri
 KIT SEBASTIAN - MELODI (OCT 1)
-KEDR LIVANSKY - LIMINAL SOUL (OCT 1) wed
+!!!KEDR LIVANSKY - LIMINAL SOUL (OCT 1)
 KRAUS - VIEW NO COUNTRY (OCT 1)
 !!!LADY GAGA / TONY BENNETT - LOVE FOR SALE (OCT 1)
 LIL WAYNE / RICH THE KID - TRUST FUND BABIES (OCT 1)
@@ -626,7 +626,7 @@ STRAND OF OAKS - IN HEAVEN (OCT 1)
 TIRZAH - COLOURGRADE (OCT 1) thur
 THE THE - THE COMEBACK SPECIAL (OCT 1)
 WAGE WAR - MANIC (OCT 1)
-WIKI - HALF GOD (OCT 1) wed
+WIKI - HALF GOD (OCT 1) mon
 YES - THE QUEST (OCT 1)
 
 theo croker - blk2life SAT ESPECIALLY DO IT
@@ -641,39 +641,39 @@ iano - stacks of cash and despair sun
 
 SPIRITUAL CRAMP - HERE COMES MORE BAD NEWS (OCT 6)
 
-the alchemist - this thing of ours, vol 2 (oct 8)
-atmosphere - word? (oct 8)
-badbadnotgood - talk memory (oct 8)
-bbno$- eat ya veggies (oct 8)
-billy bragg - things that never happened (oct 8)
-devin townsend - the puzzle (oct 8)
-devin townsend - snuggles (oct 8)
-don toliver- life of a don (oct 8)
-efterklang - windflowers (oct 8)
-james arthur - it'll all make sense in the end (oct 8)
-james blake - friends that break your heart (oct 8)
-kowloon walled city - piecework (oct 8)
-ladyhawke - time flies (oct 8)
-lala lala - i want the door to open (oct 8)
-lp - churches (oct 8)
-magdalena bay - mercurial world (oct 8)
-matt maltese- good morning it’s now tomorrow (nov 8)
-natalie hemby - pins and needles (oct 8)
-old dominion - time, tequila, and therapy (oct 8)
-porches - all day gentle hold! (oct 8)
-sam fender - seventeen going under (oct 8)
-sam teskey - cycles (oct 8)
-shannon lay - geist (oct 8)
-trivium - in the court of the dragon (oct 8)
-upsahl -	lady jesus (oct 8)
-the world is a beautiful place and i am no longer afraid to die - illusory walls (oct 8)
-wh lung - vanities (oct 8)
+THE ALCHEMIST - THIS THING OF OURS, VOL 2 (OCT 8)
+ATMOSPHERE - WORD? (OCT 8)
+BADBADNOTGOOD - TALK MEMORY (OCT 8)
+BBNO$- EAT YA VEGGIES (OCT 8)
+BILLY BRAGG - THINGS THAT NEVER HAPPENED (OCT 8)
+DEVIN TOWNSEND - THE PUZZLE (OCT 8)
+DEVIN TOWNSEND - SNUGGLES (OCT 8)
+DON TOLIVER- LIFE OF A DON (OCT 8)
+EFTERKLANG - WINDFLOWERS (OCT 8)
+JAMES ARTHUR - IT'LL ALL MAKE SENSE IN THE END (OCT 8)
+JAMES BLAKE - FRIENDS THAT BREAK YOUR HEART (OCT 8)
+KOWLOON WALLED CITY - PIECEWORK (OCT 8)
+LADYHAWKE - TIME FLIES (OCT 8)
+LALA LALA - I WANT THE DOOR TO OPEN (OCT 8)
+LP - CHURCHES (OCT 8)
+MAGDALENA BAY - MERCURIAL WORLD (OCT 8)
+MATT MALTESE- GOOD MORNING IT’S NOW TOMORROW (NOV 8)
+NATALIE HEMBY - PINS AND NEEDLES (OCT 8)
+OLD DOMINION - TIME, TEQUILA, AND THERAPY (OCT 8)
+PORCHES - ALL DAY GENTLE HOLD! (OCT 8)
+SAM FENDER - SEVENTEEN GOING UNDER (OCT 8)
+SAM TESKEY - CYCLES (OCT 8)
+SHANNON LAY - GEIST (OCT 8)
+TRIVIUM - IN THE COURT OF THE DRAGON (OCT 8)
+UPSAHL -	LADY JESUS (OCT 8)
+THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8)
+WH LUNG - VANITIES (OCT 8)
 
 feu! chatterton - palais d'argile sat
 karima walker - waking the dreaming body
 if i promise - portraits of a stranger
 orchid mantis - visitations
-softsurf - returning wave
+softsurf - returning wave fri
 
 sungazer - perihelion (oct 11)
 
@@ -730,6 +730,7 @@ ms banks - bank statement (oct 22)
 my morning jacket - my morning jacket (oct 22)
 nick cave and the bad seeds - b-sides & rarities: part ii (oct 22)
 okay kaya - the incompatible okay kaya (oct 22)
+parannoul / sonos tomam conta / asian glow -
 parquet courts - sympathy for life (oct 22)
 phew - new decade (oct 22)
 rüfüs du sol - surrender (oct 22)
@@ -801,6 +802,7 @@ silent planet - iridescent (nov 12)
 taylor swift - red (taylor's version) {nov 19}
 warbly jets 	monsterhouse (nov 12)
 
+adele - 30 (nov 19)
 angel haze - girl with a gun (nov 19)
 body/head and aaron dilloway - body/dilloway/head (nov 19)
 brian wilson - at my piano (nov 19)
