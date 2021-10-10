@@ -573,7 +573,7 @@ NAO - AND THEN LIFE WAS BEAUTIFUL (SEP 24)
 NATIVE SOUL - TEENAGE DREAMS (SEP 24)
 ONE STEP CLOSER - THIS PLACE YOU KNOW (SEP 24)
 POP 1280 - MUSEUM ON THE HORIZON (SEP 24)
-POPPY - FLUX (SEP 24) sun
+POPPY - FLUX (SEP 24)
 PROC FISKAL - SIREN SPINE SYSEX (SEP 24)
 PUBLIC BROADCASTING SERVICE - BRIGHT MAGIC (SEP 24)
 RIVERS OF NIHIL - THE WORK (SEP 24)
@@ -600,14 +600,14 @@ BLACK DICE - MOD PROG SIC (OCT 1)
 BOY SCOUTS - WAYFINDER (OCT 1)
 !!!BRANDY CARLILE - IN THESE SILENT DAYS (OCT 1)
 THE DOOBIE BROTHERS - LIBERTE (OCT 1)
-DUCKS LTD - MODERN FICTION (OCT 1) fri
+DUCKS LTD - MODERN FICTION (OCT 1)
 FULL OF HELL - GARDEN OF BURNING APPARITIONS (OCT 1)
 FRONTIERER - OXIDIZED (OCT 1) mon
 HEADIE ONE - TOO LOYAL FOR MY OWN GOOD (OCT 1)
 HOVVDY - TRUE LOVE (OCT 1)
 !!!ILLUMINATI HOTTIES - LET ME DO ONE MORE (OCT 1)
 JOJO - TRYING NOT TO THINK ABOUT IT (OCT 1)
-JUÇARA MARÇAL - DELTA ESTÁCIO BLUES (OCT 1) fri
+JUÇARA MARÇAL - DELTA ESTÁCIO BLUES (OCT 1)
 KIT SEBASTIAN - MELODI (OCT 1)
 !!!KEDR LIVANSKY - LIMINAL SOUL (OCT 1)
 KRAUS - VIEW NO COUNTRY (OCT 1)
@@ -617,21 +617,21 @@ LONE - ALWAYS INSIDE YOUR HEAD (OCT 1)
 MEEK MILL - EXPENSIVE PAIN (OCT 1)
 MINISTRY - ROYAL HYGEINE (OCT 1)
 ORCHID MANTIS - VISITATIONS (OCT 1)
-POND - 9 (OCT 1) thur
+!!!POND - 9 (OCT 1)
 PRINCESS CENTURY - SURRENDER (OCT 1)
 RAY BLK - ACCESS DENIED (OCT 1)
 SHAD - TAO (OCT 1)
 SPECTOR - NOW OR WHENEVER (OCT 1)
 STRAND OF OAKS - IN HEAVEN (OCT 1)
-TIRZAH - COLOURGRADE (OCT 1) thur
+TIRZAH - COLOURGRADE (OCT 1)
 THE THE - THE COMEBACK SPECIAL (OCT 1)
 WAGE WAR - MANIC (OCT 1)
-WIKI - HALF GOD (OCT 1) mon
+WIKI - HALF GOD (OCT 1)
 YES - THE QUEST (OCT 1)
 
-theo croker - blk2life SAT ESPECIALLY DO IT
-the armed - ultrapop sat
-the burbs - not to be reproduced sat
+!!!theo croker - blk2life
+!!!the armed - ultrapop 
+!!!the burbs - not to be reproduced
 cassandra jenkin - an overview on phenomenal nature sat
 !!!druida - esculturas de ossos
 mckinley dixon - for my mama and anyone who look like her sun
@@ -639,24 +639,20 @@ vijay iyer / linda may han oh / tyshawn sorey - uneasy sun
 !!!ka - a martyr's reward
 iano - stacks of cash and despair sun
 
+sewersvlt - if you’re out there i miss you ｡ﾟ･ (>﹏<) ･ﾟ｡ EP (oct 4)
+
 SPIRITUAL CRAMP - HERE COMES MORE BAD NEWS (OCT 6)
 
-THE ALCHEMIST - THIS THING OF OURS, VOL 2 (OCT 8)
+THE ALCHEMIST - THIS THING OF OURS, VOL 2 EP (OCT 8) fri
 ATMOSPHERE - WORD? (OCT 8)
 BADBADNOTGOOD - TALK MEMORY (OCT 8)
 BBNO$- EAT YA VEGGIES (OCT 8)
-BILLY BRAGG - THINGS THAT NEVER HAPPENED (OCT 8)
-DEVIN TOWNSEND - THE PUZZLE (OCT 8)
-DEVIN TOWNSEND - SNUGGLES (OCT 8)
-DON TOLIVER- LIFE OF A DON (OCT 8)
+DON TOLIVER- LIFE OF A DON (OCT 8) wed
 EFTERKLANG - WINDFLOWERS (OCT 8)
-JAMES ARTHUR - IT'LL ALL MAKE SENSE IN THE END (OCT 8)
-JAMES BLAKE - FRIENDS THAT BREAK YOUR HEART (OCT 8)
+JAMES BLAKE - FRIENDS THAT BREAK YOUR HEART (OCT 8) mon
 KOWLOON WALLED CITY - PIECEWORK (OCT 8)
-LADYHAWKE - TIME FLIES (OCT 8)
 LALA LALA - I WANT THE DOOR TO OPEN (OCT 8)
-LP - CHURCHES (OCT 8)
-MAGDALENA BAY - MERCURIAL WORLD (OCT 8)
+MAGDALENA BAY - MERCURIAL WORLD (OCT 8) tues
 MATT MALTESE- GOOD MORNING IT’S NOW TOMORROW (NOV 8)
 NATALIE HEMBY - PINS AND NEEDLES (OCT 8)
 OLD DOMINION - TIME, TEQUILA, AND THERAPY (OCT 8)
@@ -666,14 +662,18 @@ SAM TESKEY - CYCLES (OCT 8)
 SHANNON LAY - GEIST (OCT 8)
 TRIVIUM - IN THE COURT OF THE DRAGON (OCT 8)
 UPSAHL -	LADY JESUS (OCT 8)
-THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8)
-WH LUNG - VANITIES (OCT 8)
+THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8) wed
+WH LUNG - VANITIES (OCT 8) tues
 
 feu! chatterton - palais d'argile sat
 karima walker - waking the dreaming body
 if i promise - portraits of a stranger
 orchid mantis - visitations
 softsurf - returning wave fri
+pink siifu - gumbo thur
+argo nuff - annebolyn
+pacal babare - man without a name
+asian glow - cull ficle wed
 
 sungazer - perihelion (oct 11)
 
@@ -756,6 +756,7 @@ lily konigsberg - lily we need to talk now (oct 29)
 lotic - water (oct 29)
 mastodon - hushed and grim (oct 29)
 melissa nadler - the path of the clouds (oct 29)
+mon laferte - 1940 carmen (oct 29)
 running wild - blood on blood (oct 29)
 save face - another kill for the highlight reel (oct 29)
 they might be giants - book (oct 29)
