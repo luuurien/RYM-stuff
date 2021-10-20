@@ -1,4 +1,4 @@
-album count: 252
+album count: 254
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -7,7 +7,7 @@ album count: 252
 9/10 - 10/10: maroon
 
 -------------------------------------------------------------
-10 / 10: 17
+10 / 10: 18
 black midi - cavalcade
 deafheaven - infinite granite
 godspeed you! black emperor - g_d's pee at states end!
@@ -20,6 +20,7 @@ magdalena bay - mercurial world
 nite jewel - no sun
 pinegrove - amperland,ny
 porter robinson - nurture
+remi wolf - juno
 rochelle jordan - play with the changes
 sonhos tomam conta - hypnagogia
 sweet trip - a tiny house, in secret speeches, polar equals
@@ -267,10 +268,11 @@ pop smoke - faith
 twenty one pilots - scaled and icy
 weezer - ok human
 -------------------------------------------------------------
-2 / 10: 3
+2 / 10: 4
 justin bieber - justice
 jxdn - tell me about tomorrow
 migos - culture iii
+young thug - punk
 -------------------------------------------------------------
 1 / 10: 4
 AJR - ok orchestra
