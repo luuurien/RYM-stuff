@@ -662,7 +662,7 @@ SAM TESKEY - CYCLES (OCT 8)
 SHANNON LAY - GEIST (OCT 8)
 TRIVIUM - IN THE COURT OF THE DRAGON (OCT 8)
 UPSAHL -	LADY JESUS (OCT 8)
-THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8) mon
+THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8) ^
 WH LUNG - VANITIES (OCT 8) ^
 
 feu! chatterton - palais d'argile ^
@@ -674,12 +674,12 @@ softsurf - returning wave
 argo nuff - annebolyn ^
 !!!asian glow - cull ficle
 
-SUNGAZER - PERIHELION (OCT 11) wed
+SUNGAZER - PERIHELION (OCT 11)
 
-LIL UGLY MANE - VOLCANIC BIRD ENEMY AND THE VOICED CONCERN (OCT 12) wed
+!!!LIL UGLY MANE - VOLCANIC BIRD ENEMY AND THE VOICED CONCERN (OCT 12)
 
-ANZ - ALL HOURS EP (OCT 15) tues
-BAKER BOY - GELA (OCT 15) wed
+ANZ - ALL HOURS EP (OCT 15) ^
+BAKER BOY - GELA (OCT 15) ^
 CID RIM - SONGS OF VIENNA
 CITY MORGUE - CITY MORGUE VOL 3: BOTTOM OF THE BARREL OCT 15
 COLDPLAY - MUSIC OF THE SPHERES (OCT 15) thur
@@ -696,7 +696,7 @@ HATE - RUGIA (OCT 15)
 -HAYDEN THORPE - MOONDUST FOR MY DIAMOND (OCT 15)
 ICE NINE KILLS - THE SILVER SCREAM 2: WELCOME TO HORRORWOOD (OCT 15)
 JACKIE VENSON - LOVE TRANSCENDS
-JOY CROOKES - SKIN (OCT 15) wed
+!!!JOY CROOKES - SKIN (OCT 15)
 LE REN - LEFTOVERS (OCT 15) sun
 -LILLY HAITT- LATELY (OCT 15)
 KACY HILL - SIMPLE, SWEET, AND SMILING (OCT 15) thur
@@ -714,14 +714,14 @@ TOM MORELLO -	THE ATLAS UNDERGROUND FIRE (OCT 15)
 VILDHJARTA - MASSTADEN UNDER VATTEN
 -XENIA RUBINOS -	UNA ROSA (OCT 15)
 -YDEGIRL - YDEGIRL (OCT 15)
-!!!YOUNG THUG - PUNK (OCT 15) 
+!!!YOUNG THUG - PUNK (OCT 15)
 ZAC BROWN BAND - THE COMEBACK (OCT 15) fri
 ZACK FOX - SHUT THE FUCK UP TALKING TO ME (OCT 15) fri
 
 defacement - defacement sun
 priya ragu - damnshestal fri
 rachel lime - a.u. fri
-really from - really from thur
+!!!really from - really from
 
 THAT KID - COMEDOWN (OCT 20) fri
 
@@ -743,6 +743,7 @@ grouper - shade (oct 22)
 hand habits - fun house (oct 22)
 helado negro - far in (oct 22)
 herbert - musca (oct 22)
+hiss golden messenger - o come all ye faithful (oct 22)
 honne - let's just say the world ended a week from now, what would you do? (oct 22)
 jpegmafia - lp! (oct 22)
 la luz - la luz (oct 22)
@@ -763,6 +764,8 @@ trace mountains - house of confusion (oct 22)
 tricky - lonely guest (oct 22)
 u.d.o. - game over (oct 22)
 wet - letter blue (oct 22)
+
+patricia taxxon - the flowers of robert mapplethorpe (oct 25)
 
 namasenda - unlimited ammo (oct 28)
 
@@ -845,10 +848,13 @@ adele - 30 (nov 19)
 angel haze - girl with a gun (nov 19)
 body/head and aaron dilloway - body/dilloway/head (nov 19)
 brian wilson - at my piano (nov 19)
+chris liebing - another day (nov 19)
 converge / chelsea wolf - bloodmoon: i (nov 19)
+dead valley - marriage (nov 19)
 elbow - flying dream 1 (nov 19)
 exodus - persona non grata (nov 19)
 chris liebing - another day (nov 19)
+holy other - lieve (nov 19)
 james blunt - the stars beneath my feet (2004–2021) {nov 19}
 klein - harmattan (nov 19)
 ladyhawke - time flies (nov 19)
@@ -861,10 +867,23 @@ conway the machine - the missing bricks (nov 26)
 cynic	- ascension codes (nov 26)
 david bowie - toy (nov 26)
 hypocrisy - worship (nov 26)
+julie dorion - i think of you (nov 19)
 lordi -	lordiversity (nov 26)
 richard dawson and circle - henki (nov 26)
+westlife - wild dreams (nov 26)
 --------------------------------------------------------------
 december:
 arca - kick ii (dec 3)
+devin townsend - the puzzle (dec 3)
+devin townsend - snuggles (dec 3)
+gas - der lange marsch (dec 3)
+lp - churches (dec 3)
+marissa paternoster - peace meter (dec 3)
+of mice & men - echo (dec 3)
+volbeat - servant of the mind (dec 3)
+
+キリンジ [Kirinji] - crepuscular (dec 8)
+
+寺田創一 [Soichi Terada] - asakusa light (dec 13)
 
 tricot - jodeki (dec 15)
