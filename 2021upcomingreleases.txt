@@ -712,13 +712,13 @@ THE SILVER - WARD OF ROSES
 TOM MORELLO -	THE ATLAS UNDERGROUND FIRE (OCT 15)
 !!!VANISHING TWIN - OOKII GEKKON (OCT 15)
 VILDHJARTA - MASSTADEN UNDER VATTEN
-XENIA RUBINOS -	UNA ROSA (OCT 15) fri
+XENIA RUBINOS -	UNA ROSA (OCT 15)
 -YDEGIRL - YDEGIRL (OCT 15)
 !!!YOUNG THUG - PUNK (OCT 15)
 ZAC BROWN BAND - THE COMEBACK (OCT 15)
-ZACK FOX - SHUT THE FUCK UP TALKING TO ME (OCT 15) sun
+ZACK FOX - SHUT THE FUCK UP TALKING TO ME (OCT 15)
 
-defacement - defacement tues
+defacement - defacement ^
 !!!priya ragu - damnshestamil
 rachel lime - a.u.
 !!!really from - really from
@@ -727,22 +727,22 @@ rachel lime - a.u.
 
 AGNES - MAGIC STILL EXISTS (OCT 22) sun
 BIFFY CLYRO - THE MYTH OF THE HAPPILY EVER AFTER (OCT 22)
-BLACK MARBLE - FAST IDOL (OCT 22) tues
+!!!BLACK MARBLE - FAST IDOL (OCT 22)
 !!!CIRCUIT DES YEUX - -IO (OCT 22)
 CRADLE OF FILTH - EXISTENCE IS FUTILE (OCT 22)
 DEERHOOF - ACTUALLY, YOU CAN (OCT 22) fri
 DREAM THEATER - A VIEW FROM THE TOP OF THE WORLD (OCT 22)
 DON BROCO - AMAZING THINGS (OCT 22)
-DOS SANTOS - CITY OF MIRRORS (OCT 22) thur
+DOS SANTOS - CITY OF MIRRORS (OCT 22) wed
 DUA SALEH - CROSSOVER (OCT 22)
 DURAN DURAN - FUTURE PAST (OCT 22)
 ELTON JOHN - THE LOCKDOWN SESSIONS (OCT 22)
-EVERY TIME I DIE - RADICAL (OCT 22)
-GROUPER - SHADE (OCT 22) tues
+EVERY TIME I DIE - RADICAL (OCT 22) sun
+!!!GROUPER - SHADE (OCT 22)
 HAND HABITS - FUN HOUSE (OCT 22)
 HELADO NEGRO - FAR IN (OCT 22) wed
 HERBERT - MUSCA (OCT 22)
-HISS GOLDEN MESSENGER - O COME ALL YE FAITHFUL (OCT 22) tues
+!!!HISS GOLDEN MESSENGER - O COME ALL YE FAITHFUL (OCT 22)
 HONNE - LET'S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (OCT 22)
 JPEGMAFIA - LP! (OCT 22) thur
 LA LUZ - LA LUZ (OCT 22)
@@ -760,12 +760,12 @@ STARSET - HORIZONS (OCT 22)
 TRACE MOUNTAINS - HOUSE OF CONFUSION (OCT 22)
 TRICKY - LONELY GUEST (OCT 22)
 U.D.O. - GAME OVER (OCT 22)
-UNIIQU3 - HEARTBEATS (OCT 22)
+UNIIQU3 - HEARTBEATS (OCT 22) wed
 WET - LETTER BLUE (OCT 22)
 
-PATRICIA TAXXON - THE FLOWERS OF ROBERT MAPPLETHORPE (OCT 25) wed
+PATRICIA TAXXON - THE FLOWERS OF ROBERT MAPPLETHORPE (OCT 25) thur
 
-astromeda - this is not what you do thur
+astromeda - this is not what you do sun
 
 namasenda - unlimited ammo (oct 28)
 
@@ -774,12 +774,13 @@ black veil brides - the phantom tomorrow (oct 29)
 ed sheeran - = (oct 29)
 geese - projector (oct 29)
 jerry cantrell - brighten (oct 29)
-katy b - peace and offerings (oct 19)
+katy b - peace and offerings (oct 29)
 kayo dot - moss grew on the swords and plowshares alike (oct 29)
 kyary pamyu pamyu - candy racer (oct 29)
 lily konigsberg - lily we need to talk now (oct 29)
 lotic - water (oct 29)
 mastodon - hushed and grim (oct 29)
+megan thee stallion - something for thee hotties (oct 29)
 melissa nadler - the path of the clouds (oct 29)
 mon laferte - 1940 carmen (oct 29)
 running wild - blood on blood (oct 29)
