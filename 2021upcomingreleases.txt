@@ -725,12 +725,12 @@ rachel lime - a.u.
 
 !!!THAT KID - COMEDOWN (OCT 20)
 
-AGNES - MAGIC STILL EXISTS (OCT 22) sun
+AGNES - MAGIC STILL EXISTS (OCT 22) 
 BIFFY CLYRO - THE MYTH OF THE HAPPILY EVER AFTER (OCT 22)
 !!!BLACK MARBLE - FAST IDOL (OCT 22)
 !!!CIRCUIT DES YEUX - -IO (OCT 22)
 CRADLE OF FILTH - EXISTENCE IS FUTILE (OCT 22)
-DEERHOOF - ACTUALLY, YOU CAN (OCT 22) fri
+DEERHOOF - ACTUALLY, YOU CAN (OCT 22) sun
 DREAM THEATER - A VIEW FROM THE TOP OF THE WORLD (OCT 22)
 DON BROCO - AMAZING THINGS (OCT 22)
 DOS SANTOS - CITY OF MIRRORS (OCT 22)
@@ -740,18 +740,18 @@ ELTON JOHN - THE LOCKDOWN SESSIONS (OCT 22)
 EVERY TIME I DIE - RADICAL (OCT 22) sun
 !!!GROUPER - SHADE (OCT 22)
 HAND HABITS - FUN HOUSE (OCT 22)
-HELADO NEGRO - FAR IN (OCT 22) wed
+!!!HELADO NEGRO - FAR IN (OCT 22)
 HERBERT - MUSCA (OCT 22)
 !!!HISS GOLDEN MESSENGER - O COME ALL YE FAITHFUL (OCT 22)
 HONNE - LET'S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (OCT 22)
-JPEGMAFIA - LP! (OCT 22) thur
+!!!JPEGMAFIA - LP! (OCT 22)
 LA LUZ - LA LUZ (OCT 22)
 !!!LANA DEL REY - BLUE BANISTERS (OCT 22)
-MY MORNING JACKET - MY MORNING JACKET (OCT 22) fri
+MY MORNING JACKET - MY MORNING JACKET (OCT 22)
 NICK CAVE AND THE BAD SEEDS - B-SIDES & RARITIES: PART II (OCT 22)
 OKAY KAYA - THE INCOMPATIBLE OKAY KAYA (OCT 22)
 PARANNOUL / SONOS TOMAM CONTA / ASIAN GLOW - DOWNFALL OF THE NEON YOUTH (OCT 22) fri
-PARQUET COURTS - A SYMPATHY FOR LIFE (OCT 22) thur
+!!!PARQUET COURTS - SYMPATHY FOR LIFE (OCT 22)
 PHEW - NEW DECADE (OCT 22)
 RÜFÜS DU SOL - SURRENDER (OCT 22)
 SEVENTEEN - ATTACCA (OCT 22)
@@ -763,33 +763,53 @@ U.D.O. - GAME OVER (OCT 22)
 UNIIQU3 - HEARTBEATS (OCT 22)
 WET - LETTER BLUE (OCT 22)
 
-PATRICIA TAXXON - THE FLOWERS OF ROBERT MAPPLETHORPE (OCT 25) thur
+!!!PATRICIA TAXXON - THE FLOWERS OF ROBERT MAPPLETHORPE (OCT 25)
 
 astromeda - this is not what you do sun
 
-NAMASENDA - UNLIMITED AMMO (OCT 28)
+NAMASENDA - UNLIMITED AMMO (OCT 28) tues
 
-bad wolves - dear monsters (oct 29)
-black veil brides - the phantom tomorrow (oct 29)
-ed sheeran - = (oct 29)
-geese - projector (oct 29)
-jerry cantrell - brighten (oct 29)
-katy b - peace and offerings (oct 29)
-kayo dot - moss grew on the swords and plowshares alike (oct 29)
-kyary pamyu pamyu - candy racer (oct 29)
-lily konigsberg - lily we need to talk now (oct 29)
-lotic - water (oct 29)
-martin brothers - love is optional (oct 29)
-mastodon - hushed and grim (oct 29)
-megan thee stallion - something for thee hotties (oct 29)
-melissa nadler - the path of the clouds (oct 29)
-mon laferte - 1940 carmen (oct 29)
-running wild - blood on blood (oct 29)
-save face - another kill for the highlight reel (oct 29)
-they might be giants - book (oct 29)
-the war on drugs - i don't live here anymore (oct 29)
-tori amos - ocean to ocean (oct 29)
-whitechapel - kin (oct 29)
+ALINA BARAZ - MOONGATE EP (OCT 29)
+ARCHSPIRE - BLEED THE FUTURE (OCT 29)
+BAD WOLVES - DEAR MONSTERS (OCT 29)
+BLACK VEIL BRIDES - THE PHANTOM TOMORROW (OCT 29)
+CHARLOTTE CORNFIELD - HIGHS IN THE MINUSES (OCT 29)
+ED SHEERAN - = (OCT 29) sun
+EMILY SCOTT ROBINSON - AMERICAN SIREN (OCT 29)
+ERIC DREW - QUIVERING IN TIME
+FIRST FRAGMENT -  GLOIRE ETERNELLE (OCT 29)
+GEESE - PROJECTOR (OCT 29)
+GHOST BATH - SELF LOATHER (OCT 29)
+JAMAEL DEAN - PRIMORDIAL WATERS
+JERRY CANTRELL - BRIGHTEN (OCT 29)
+KAYO DOT - MOSS GREW ON THE SWORDS AND PLOWSHARES ALIKE (OCT 29)
+KONCEPT JACKSON / MORRIACHI - A GRACEFUL SNAFU
+KYARY PAMYU PAMYU - CANDY RACER (OCT 29)
+LILY KONIGSBERG - LILY WE NEED TO TALK NOW (OCT 29)
+LONE - ALWAYS INSIDE YOUR HEAD (OCT 29)
+LOTIC - WATER (OCT 29)
+LUNAR VACATION - INSIDE EVERY DIG IS A DEAD WASP
+MARISSA NADLER - THE PATH OF THE CLOUDS (OCT 29) wed
+MARTIN BROTHERS - LOVE IS OPTIONAL (OCT 29)
+MASTODON - HUSHED AND GRIM (OCT 29)
+MEGAN THEE STALLION - SOMETHING FOR THEE HOTTIES (OCT 29)
+MICK JENKENS - ELEPHANT IN THE ROOM (OCT 29)
+MON LAFERTE - 1940 CARMEN (OCT 29) thur
+MONOLORD - YOUR TIME TO SHINE (OCT 29)
+RUNNING WILD - BLOOD ON BLOOD (OCT 29)
+ROME STREETZ / RANSOM - COUP DE GRACE
+SAM EVIAN - TIME TO MELT (OCT 29)
+SAVE FACE - ANOTHER KILL FOR THE HIGHLIGHT REEL (OCT 29)
+SCARLXRD - DEADRISING. (OCT 29)
+SEMATARY - SCREAMING FOREST (OCT 29)
+STRAWBERRY GUY - SUN OUTSIDE THE WINDOW (OCT 29)
+SUSTO - TIME IN THE SUN
+THEON CROSS - INTRA I (OCT 29)
+THE WAR ON DRUGS - I DON'T LIVE HERE ANYMORE (OCT 29) tues
+TORI AMOS - OCEAN TO OCEAN (OCT 29) mon
+VELS TRIO - CELESTIAL GREEN (OCT 29)
+WAVE RACER - TO STOP FROM FALLING OFF THE EARTH (OCT 29)
+WHITECHAPEL - KIN (OCT 29)
 --------------------------------------------------------------
 november:
 abba - voyage (nov 5)
@@ -835,6 +855,7 @@ john hopkins - music for psychedelic therapy (nov 12)
 l.a. guns - checkered past (nov 12)
 land of talk - calming night partner (nov 12)
 makthaverskan - för allting (nov 12)
+medhane - do the math (nov 12)
 oberhofer - smothered (nov 12)
 rod stewart - the tears of hercules (nov 12)
 sega bodega - romeo (nov 12)
@@ -848,6 +869,7 @@ windows 96 - magic peaks (nov 12)
 
 adele - 30 (nov 19)
 angel haze - girl with a gun (nov 19)
+apollo brown / stalley - blacklight (nov 19)
 body/head and aaron dilloway - body/dilloway/head (nov 19)
 brian wilson - at my piano (nov 19)
 chris liebing - another day (nov 19)
