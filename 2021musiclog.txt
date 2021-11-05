@@ -1,4 +1,4 @@
-album count: 280
+album count: 282
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -130,12 +130,13 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 98
+7 / 10: 100
 adia victoria - a southern gothic
 amyl and the sniffers - comfort to me
 amythyst kiah - wary + strange
 armand hammer + the alchemist - haram
 astromeda - this is not what you do
+aya - im hole
 beatriz ferreyra - canto+
 black marble - fast idol
 the burbs - not to be reproduced
@@ -227,6 +228,7 @@ turnstile - glow on
 underscores - fishmonger
 vylet pony - cutiemarks (and the things that bind us)
 wavves - hideaway
+xenia rubinos - una rosa
 yes/and - yes/and
 -------------------------------------------------------------
 6 / 10: 23
