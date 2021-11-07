@@ -1,4 +1,4 @@
-album count: 282
+album count: 284
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -130,7 +130,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 100
+7 / 10: 102
 adia victoria - a southern gothic
 amyl and the sniffers - comfort to me
 amythyst kiah - wary + strange
@@ -197,6 +197,7 @@ mon laferte - seis
 namasenda - unlimited ammo
 navy blue - navy's reprise
 ngaiire - 3
+nubya garcia - source + we move
 olivia rodrigo - sour
 origami angel - gami gang
 patrick paige - if i fail are we still cool?
@@ -222,6 +223,8 @@ soda blonde - small talk
 sons of kemet - black to the future
 spellling - the turning wheel
 still woozy - if this isn't nice, i don't know what is
+stomach book - stomach book
+sumin / slon - miniseries
 taylor swift - fearless (taylor's version)
 tori amos - ocean to ocean
 turnstile - glow on
