@@ -661,7 +661,6 @@ SAM TESKEY - CYCLES (OCT 8)
 SHANNON LAY - GEIST (OCT 8)
 TRIVIUM - IN THE COURT OF THE DRAGON (OCT 8)
 UPSAHL -	LADY JESUS (OCT 8)
-THE WORLD IS A BEAUTIFUL PLACE AND I AM NO LONGER AFRAID TO DIE - ILLUSORY WALLS (OCT 8) ^
 WH LUNG - VANITIES (OCT 8) ^
 
 feu! chatterton - palais d'argile ^
@@ -696,7 +695,7 @@ HATE - RUGIA (OCT 15)
 ICE NINE KILLS - THE SILVER SCREAM 2: WELCOME TO HORRORWOOD (OCT 15)
 JACKIE VENSON - LOVE TRANSCENDS
 !!!JOY CROOKES - SKIN (OCT 15)
-LE REN - LEFTOVERS (OCT 15) sun
+LE REN - LEFTOVERS (OCT 15)
 -LILLY HAITT- LATELY (OCT 15)
 !!!KACY HILL - SIMPLE, SWEET, AND SMILING (OCT 15)
 KAELAN MIKLA - UNDIR KOLDUM NOROURLJOSUM (OCT 15)
@@ -774,7 +773,7 @@ BAD WOLVES - DEAR MONSTERS (OCT 29)
 BLACK VEIL BRIDES - THE PHANTOM TOMORROW (OCT 29)
 BREMER / MCCOY - NATTEN (OCT 29)
 CHARLOTTE CORNFIELD - HIGHS IN THE MINUSES (OCT 29)
-ED SHEERAN - = (OCT 29) sun
+ED SHEERAN - = (OCT 29)
 EMILY SCOTT ROBINSON - AMERICAN SIREN (OCT 29)
 ERIC DREW - QUIVERING IN TIME (OCT 29)
 FIRST FRAGMENT -  GLOIRE ETERNELLE (OCT 29)
@@ -815,27 +814,27 @@ WAVE RACER - TO STOP FROM FALLING OFF THE EARTH (OCT 29)
 WHITECHAPEL - KIN (OCT 29)
 
 !!!aya - im hole
-dani lee pearce - unfair harmonies sun
-iano - stacks of cash and despair 
-kappa - poor traits of the artist sun
+!!!dani lee pearce - unfair harmonies
+iano - stacks of cash and despair
+!!!kappa - poor traits of the artist
 lukah - why look up, god's in the mirror
 mabe fratti - será que ahora podremos entendernos
-newgrounds death rugby - pictures of your pets sun
+!!!newgrounds death rugby - pictures of your pets
 nouns - lonely places of dying
 !!!nubya garcia - source + we move
-ouri - frame of a fauna sun
+!!!ouri - frame of a fauna
 rhododendron - protozoan battle hymns
-ross from friends - tread sun
+!!!ross from friends - tread
 spectral temper - imending dawn
 !!!stomachbook - stomach book
 !!!sumin / slom - miniseries
 --------------------------------------------------------------
 november:
-ABBA - VOYAGE (NOV 5) tues
+ABBA - VOYAGE (NOV 5)
 ADMIRAL FALLOW - THE IDEA OF YOU (NOV 5)
 AIMEE MANN - QUEENS OF THE SUMMER HOTEL (NOV 5)
-ASIAN GLOW - LINES BETWEEN THE DOORFRAME mon
-AMINE - TWOPOINTFIVE (NOV 5) tues
+ASIAN GLOW - LINES BETWEEN THE DOORFRAME
+AMINE - TWOPOINTFIVE (NOV 5)
 BULLET FOR MY VALENTINE - BULLET FOR MY VALENTINE (NOV 5)
 BRIAN FALLON - NIGHT DRIVE (NOV 5)
 CURTIS HARDING - IF WORDS WERE FLOWERS (NOV 5)
@@ -867,10 +866,10 @@ RADIOHEAD - KID AMNESIAE (NOV 5)
 SEEYOUSPACECOWBOY - THE ROMANCE OF AFFLICTION (NOV 5)
 SERPENTWITHFEET - DEACON'S GROVE (NOV 5)
 SLOPPY JANE - MADISON (NOV 5)
-SNAIL MAIL - VALENTINE (NOV 5) mon
+!!!SNAIL MAIL - VALENTINE (NOV 5)
 SPECTRES - HINSIGHT (NOV 5)
 STEVE PERRY - THE SEASON (NOV 5)
-SUMMER WALKER - STILL OVER IT (NOV 5) wed
+SUMMER WALKER - STILL OVER IT (NOV 5)
 TASHA - TELL ME WHAT YOU MISS THE MOST (NOV 5)
 TELEMAN - SWEET MORNING (NOV 5)
 TERREYL FIELDS - FIRST HIT EP
@@ -878,33 +877,49 @@ WENDY EISENBERG - BENT RING (NOV 5)
 
 tomorrow x together - chaotic wonderland (nov 10)
 
-aesop rock / blockhead - garbology (nov 12)
-aries - believe in me, who believes in you (nov 12)
-courney barnett - things take time, take time (nov 12)
-damon albarn - the nearer the fountain, more pure the stream flows (nov 12)
-dave grain / soulsaver - imposter (nov 12)
-duval timothy / rosie low - son (nov 12)
-flight facilities - forever (nov 12)
-gov't mule - heavy load blues (nov 12)
-holly humberstone - walls are way too thin (nov 12)
-idles - crawler (nov 12)
-irreversible entanglements - open the gates (nov 12)
-jason aldean - macon (nov 12)
-john hopkins - music for psychedelic therapy (nov 12)
-l.a. guns - checkered past (nov 12)
-land of talk - calming night partner (nov 12)
-makthaverskan - för allting (nov 12)
-medhane - do the math (nov 12)
-oberhofer - smothered (nov 12)
-rod stewart - the tears of hercules (nov 12)
-sega bodega - romeo (nov 12)
-silent planet - iridescent (nov 12)
-silk sonic - an evening with silk sonic (nov 12)
-snoop dogg - algorithm (nov 12)
-taylor swift - red (taylor's version) {nov 12}
-twice - formula of love (nov 12)
-warbly jets 	monsterhouse (nov 12)
-windows 96 - magic peaks (nov 12)
+AESOP ROCK / BLOCKHEAD - GARBOLOGY (NOV 12) tues
+ARIES - BELIEVE IN ME, WHO BELIEVES IN YOU (NOV 12) mon
+COURNEY BARNETT - THINGS TAKE TIME, TAKE TIME (NOV 12) fri
+DAMON ALBARN - THE NEARER THE FOUNTAIN, MORE PURE THE STREAM FLOWS (NOV 12) thur
+DAVE GRAIN / SOULSAVER - IMPOSTER (NOV 12)
+DUVAL TIMOTHY / ROSIE LOW - SON (NOV 12)
+FLIGHT FACILITIES - FOREVER (NOV 12)
+GOV'T MULE - HEAVY LOAD BLUES (NOV 12)
+HOLLY HUMBERSTONE - WALLS ARE WAY TOO THIN (NOV 12)
+IDLES - CRAWLER (NOV 12) wed
+IRREVERSIBLE ENTANGLEMENTS - OPEN THE GATES (NOV 12)
+JASON ALDEAN - MACON (NOV 12)
+JOHN HOPKINS - MUSIC FOR PSYCHEDELIC THERAPY (NOV 12)
+L.A. GUNS - CHECKERED PAST (NOV 12)
+LAND OF TALK - CALMING NIGHT PARTNER (NOV 12)
+MAKTHAVERSKAN - FÖR ALLTING (NOV 12)
+MEDHANE - DO THE MATH (NOV 12) wed
+OBERHOFER - SMOTHERED (NOV 12)
+ROD STEWART - THE TEARS OF HERCULES (NOV 12)
+SEGA BODEGA - ROMEO (NOV 12)
+SILENT PLANET - IRIDESCENT (NOV 12)
+SILK SONIC - AN EVENING WITH SILK SONIC (NOV 12) fri
+SNOOP DOGG - ALGORITHM (NOV 12)
+TAYLOR SWIFT - RED (TAYLOR'S VERSION) {NOV 12} sat
+TWICE - FORMULA OF LOVE (NOV 12)
+WARBLY JETS 	MONSTERHOUSE (NOV 12)
+WINDOWS 96 - MAGIC PEAKS (NOV 12)
+
+beach house - once twice melody mon
+abba - voyage fri
+amine - twopointfive
+argo nuff - annebolyn tues
+asian glow - lines between the doorframe sat
+defacement - defacement thur
+emma ruth rundle - engine of hell sun
+feu! chatterton - palais d'argile wed
+hyd - hyd tues
+orchid mantis - visitations thur
+softsurf - returning wave
+summer walker - still over it sun
+the world is a beautiful place and i am no longer afraid to die - illusory walls mon
+vijay iyer / linda may han oh / tyshawn sorey - uneasy sun
+wh lung - vanities sat
 
 adele - 30 (nov 19)
 angel haze - girl with a gun (nov 19)
