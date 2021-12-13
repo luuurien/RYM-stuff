@@ -1,4 +1,4 @@
-album count: 316
+album count: 320
 
 1/10 - 2/10: olive
 3/10 - 4/10: yellow
@@ -7,7 +7,7 @@ album count: 316
 9/10 - 10/10: maroon
 
 -------------------------------------------------------------
-10 / 10: 20
+10 / 10: 21
 astromeda - moonsea
 black midi - cavalcade
 deafheaven - infinite granite
@@ -19,6 +19,7 @@ lucid express - lucid express
 lucy dacus - home video
 magdalena bay - mercurial world
 nite jewel - no sun
+old saw - country tropics
 parannoul / asian glow / sonhos tomam conta - downfall of the neon youth
 pinegrove - amperland,ny
 porter robinson - nurture
@@ -62,13 +63,14 @@ quiet commotion - hallå, kära flod!
 wild up - julius eastman vol 1: femenine
 yola - stand for myself
 -------------------------------------------------------------
-8 / 10: 84
+8 / 10: 85
 aaron dilloway / luceria dalt - lucy & aaron
 adele - 30
 aesop rock / blockhead - garbology
 aleph - ego death
 aly & aj - a touch of the beat gets you up on your feet gets you out and then into the sun
 arca - kick ii
+arca - kick iiiii
 the armed - ultrapop
 asian glow - cull ficle
 babii - miirror
@@ -148,7 +150,7 @@ wolf alice - blue weekend
 xiu xiu - oh no
 yu su - yellow river blue
 -------------------------------------------------------------
-7 / 10: 107
+7 / 10: 108
 adia victoria - a southern gothic
 amyl and the sniffers - comfort to me
 amythyst kiah - wary + strange
@@ -167,6 +169,7 @@ chvrches - screen violence
 circuit des yeux - -io
 clairo - sling
 claud - super monster
+cleo sol - mother
 cosha - mt. pleasant
 darkside - spiral
 david matias - still life EP
@@ -257,7 +260,8 @@ wavves - hideaway
 xenia rubinos - una rosa
 yes/and - yes/and
 -------------------------------------------------------------
-6 / 10: 26
+6 / 10: 27
+arca - kick iiii
 arlo parks - collapsed in sunbeams
 cacola - a gift to us all
 chance de la soul - afterparty
